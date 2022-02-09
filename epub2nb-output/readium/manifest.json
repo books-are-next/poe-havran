@@ -1,0 +1,456 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Havran a jiné básně",
+    "identifier": "17e81c75-3f9a-40be-b383-9435727eb7fe",
+    "author": "Edgar Allan Poe",
+    "language": "cs",
+    "modified": "2022-02-09T15:06:32.904Z",
+    "calibre:title_sort": "Havran a jiné básně",
+    "calibre:timestamp": "2013-08-01T10:27:33+00:00",
+    "Sigil version": "0.7.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_037.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_000.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_034.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_035.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_036.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_havran_a_jine_basne.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Z předmluvy básníkovy",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_002.html"
+    },
+    {
+      "title": "V omluvu překladatele",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_002.html#sigil_toc_id_1"
+    },
+    {
+      "title": "Havran",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_003.html"
+    },
+    {
+      "title": "Lenora",
+      "children": [
+        {
+          "title": "I.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_004.html#sigil_toc_id_2"
+        },
+        {
+          "title": "II.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_004.html#sigil_toc_id_3"
+        },
+        {
+          "title": "III.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_004.html#sigil_toc_id_4"
+        },
+        {
+          "title": "IV.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_004.html#sigil_toc_id_5"
+        }
+      ],
+      "href": "OEBPS/Text/havran_a_jine_basne_split_004.html"
+    },
+    {
+      "title": "Hymnus",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_005.html"
+    },
+    {
+      "title": "Sloky Heleně",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_006.html"
+    },
+    {
+      "title": "Kolosseum",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_007.html"
+    },
+    {
+      "title": "Heleně",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_008.html"
+    },
+    {
+      "title": "Své matce",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_009.html"
+    },
+    {
+      "title": "Zvony",
+      "children": [
+        {
+          "title": "I.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_010.html#sigil_toc_id_6"
+        },
+        {
+          "title": "II.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_010.html#sigil_toc_id_7"
+        },
+        {
+          "title": "III.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_010.html#sigil_toc_id_8"
+        },
+        {
+          "title": "IV.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_010.html#sigil_toc_id_9"
+        }
+      ],
+      "href": "OEBPS/Text/havran_a_jine_basne_split_010.html"
+    },
+    {
+      "title": "Annabel-Lee",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_011.html"
+    },
+    {
+      "title": "Eulalie",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_012.html"
+    },
+    {
+      "title": "Ulalum",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_013.html"
+    },
+    {
+      "title": "F—S. S. O—D.",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_014.html"
+    },
+    {
+      "title": "Spící",
+      "children": [
+        {
+          "title": "I.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_015.html#sigil_toc_id_10"
+        },
+        {
+          "title": "II.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_015.html#sigil_toc_id_11"
+        },
+        {
+          "title": "III.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_015.html#sigil_toc_id_12"
+        },
+        {
+          "title": "IV.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_015.html#sigil_toc_id_13"
+        }
+      ],
+      "href": "OEBPS/Text/havran_a_jine_basne_split_015.html"
+    },
+    {
+      "title": "Očarovaný palác",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_016.html"
+    },
+    {
+      "title": "Ostrovu Zante",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_017.html"
+    },
+    {
+      "title": "Zem snů",
+      "children": [
+        {
+          "title": "I.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_018.html#sigil_toc_id_14"
+        },
+        {
+          "title": "II.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_018.html#sigil_toc_id_15"
+        },
+        {
+          "title": "III.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_018.html#sigil_toc_id_16"
+        },
+        {
+          "title": "IV.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_018.html#sigil_toc_id_17"
+        },
+        {
+          "title": "V.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_018.html#sigil_toc_id_18"
+        }
+      ],
+      "href": "OEBPS/Text/havran_a_jine_basne_split_018.html"
+    },
+    {
+      "title": "Město v moři",
+      "children": [
+        {
+          "title": "I.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_019.html#sigil_toc_id_19"
+        },
+        {
+          "title": "II.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_019.html#sigil_toc_id_20"
+        },
+        {
+          "title": "III.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_019.html#sigil_toc_id_21"
+        },
+        {
+          "title": "IV.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_019.html#sigil_toc_id_22"
+        }
+      ],
+      "href": "OEBPS/Text/havran_a_jine_basne_split_019.html"
+    },
+    {
+      "title": "Někomu v ráji",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_020.html"
+    },
+    {
+      "title": "Eldorádo",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_021.html"
+    },
+    {
+      "title": "Údolí neklidu",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_022.html"
+    },
+    {
+      "title": "Sen ve snu",
+      "children": [
+        {
+          "title": "I.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_023.html#sigil_toc_id_23"
+        },
+        {
+          "title": "II.",
+          "href": "OEBPS/Text/havran_a_jine_basne_split_023.html#sigil_toc_id_24"
+        }
+      ],
+      "href": "OEBPS/Text/havran_a_jine_basne_split_023.html"
+    },
+    {
+      "title": "Ticho",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_024.html"
+    },
+    {
+      "title": "Červ dobyvatel",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_025.html"
+    },
+    {
+      "title": "Pro Annie",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_026.html"
+    },
+    {
+      "title": "Svatební Ballada",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_027.html"
+    },
+    {
+      "title": "Israfel",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_028.html"
+    },
+    {
+      "title": "F…",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_029.html"
+    },
+    {
+      "title": "Já nedbám…",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_030.html"
+    },
+    {
+      "title": "M. L. S.",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_031.html"
+    },
+    {
+      "title": "Jezero",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_032.html"
+    },
+    {
+      "title": "Duchové mrtvých",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_033.html"
+    },
+    {
+      "title": "Země vil",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_034.html"
+    },
+    {
+      "title": "M. L. S.",
+      "href": "OEBPS/Text/havran_a_jine_basne_split_035.html"
+    }
+  ]
+}

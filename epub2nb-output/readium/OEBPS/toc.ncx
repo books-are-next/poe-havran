@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="17e81c75-3f9a-40be-b383-9435727eb7fe" name="dtb:uid"/>
+        <meta content="2" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Havran a jiné básně</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Z předmluvy básníkovy</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_002.html"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>V omluvu překladatele</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_002.html#sigil_toc_id_1"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>Havran</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_003.html"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>Lenora</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_004.html"/>
+            <navPoint id="navPoint-5" playOrder="5">
+                <navLabel>
+                    <text>I.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_004.html#sigil_toc_id_2"/>
+            </navPoint>
+            <navPoint id="navPoint-6" playOrder="6">
+                <navLabel>
+                    <text>II.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_004.html#sigil_toc_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-7" playOrder="7">
+                <navLabel>
+                    <text>III.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_004.html#sigil_toc_id_4"/>
+            </navPoint>
+            <navPoint id="navPoint-8" playOrder="8">
+                <navLabel>
+                    <text>IV.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_004.html#sigil_toc_id_5"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>Hymnus</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_005.html"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>Sloky Heleně</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_006.html"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>Kolosseum</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_007.html"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>Heleně</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_008.html"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>Své matce</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_009.html"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+                <text>Zvony</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_010.html"/>
+            <navPoint id="navPoint-15" playOrder="15">
+                <navLabel>
+                    <text>I.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_010.html#sigil_toc_id_6"/>
+            </navPoint>
+            <navPoint id="navPoint-16" playOrder="16">
+                <navLabel>
+                    <text>II.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_010.html#sigil_toc_id_7"/>
+            </navPoint>
+            <navPoint id="navPoint-17" playOrder="17">
+                <navLabel>
+                    <text>III.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_010.html#sigil_toc_id_8"/>
+            </navPoint>
+            <navPoint id="navPoint-18" playOrder="18">
+                <navLabel>
+                    <text>IV.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_010.html#sigil_toc_id_9"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+                <text>Annabel-Lee</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_011.html"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+                <text>Eulalie</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_012.html"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+                <text>Ulalum</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_013.html"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+                <text>F—S. S. O—D.</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_014.html"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+                <text>Spící</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_015.html"/>
+            <navPoint id="navPoint-24" playOrder="24">
+                <navLabel>
+                    <text>I.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_015.html#sigil_toc_id_10"/>
+            </navPoint>
+            <navPoint id="navPoint-25" playOrder="25">
+                <navLabel>
+                    <text>II.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_015.html#sigil_toc_id_11"/>
+            </navPoint>
+            <navPoint id="navPoint-26" playOrder="26">
+                <navLabel>
+                    <text>III.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_015.html#sigil_toc_id_12"/>
+            </navPoint>
+            <navPoint id="navPoint-27" playOrder="27">
+                <navLabel>
+                    <text>IV.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_015.html#sigil_toc_id_13"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+            <navLabel>
+                <text>Očarovaný palác</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_016.html"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+            <navLabel>
+                <text>Ostrovu Zante</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_017.html"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+            <navLabel>
+                <text>Zem snů</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_018.html"/>
+            <navPoint id="navPoint-31" playOrder="31">
+                <navLabel>
+                    <text>I.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_018.html#sigil_toc_id_14"/>
+            </navPoint>
+            <navPoint id="navPoint-32" playOrder="32">
+                <navLabel>
+                    <text>II.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_018.html#sigil_toc_id_15"/>
+            </navPoint>
+            <navPoint id="navPoint-33" playOrder="33">
+                <navLabel>
+                    <text>III.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_018.html#sigil_toc_id_16"/>
+            </navPoint>
+            <navPoint id="navPoint-34" playOrder="34">
+                <navLabel>
+                    <text>IV.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_018.html#sigil_toc_id_17"/>
+            </navPoint>
+            <navPoint id="navPoint-35" playOrder="35">
+                <navLabel>
+                    <text>V.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_018.html#sigil_toc_id_18"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+            <navLabel>
+                <text>Město v moři</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_019.html"/>
+            <navPoint id="navPoint-37" playOrder="37">
+                <navLabel>
+                    <text>I.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_019.html#sigil_toc_id_19"/>
+            </navPoint>
+            <navPoint id="navPoint-38" playOrder="38">
+                <navLabel>
+                    <text>II.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_019.html#sigil_toc_id_20"/>
+            </navPoint>
+            <navPoint id="navPoint-39" playOrder="39">
+                <navLabel>
+                    <text>III.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_019.html#sigil_toc_id_21"/>
+            </navPoint>
+            <navPoint id="navPoint-40" playOrder="40">
+                <navLabel>
+                    <text>IV.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_019.html#sigil_toc_id_22"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+            <navLabel>
+                <text>Někomu v ráji</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_020.html"/>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+            <navLabel>
+                <text>Eldorádo</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_021.html"/>
+        </navPoint>
+        <navPoint id="navPoint-43" playOrder="43">
+            <navLabel>
+                <text>Údolí neklidu</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_022.html"/>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+            <navLabel>
+                <text>Sen ve snu</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_023.html"/>
+            <navPoint id="navPoint-45" playOrder="45">
+                <navLabel>
+                    <text>I.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_023.html#sigil_toc_id_23"/>
+            </navPoint>
+            <navPoint id="navPoint-46" playOrder="46">
+                <navLabel>
+                    <text>II.</text>
+                </navLabel>
+                <content src="Text/havran_a_jine_basne_split_023.html#sigil_toc_id_24"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+            <navLabel>
+                <text>Ticho</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_024.html"/>
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+            <navLabel>
+                <text>Červ dobyvatel</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_025.html"/>
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+            <navLabel>
+                <text>Pro Annie</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_026.html"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+            <navLabel>
+                <text>Svatební Ballada</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_027.html"/>
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51">
+            <navLabel>
+                <text>Israfel</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_028.html"/>
+        </navPoint>
+        <navPoint id="navPoint-52" playOrder="52">
+            <navLabel>
+                <text>F…</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_029.html"/>
+        </navPoint>
+        <navPoint id="navPoint-53" playOrder="53">
+            <navLabel>
+                <text>Já nedbám…</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_030.html"/>
+        </navPoint>
+        <navPoint id="navPoint-54" playOrder="54">
+            <navLabel>
+                <text>M. L. S.</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_031.html"/>
+        </navPoint>
+        <navPoint id="navPoint-55" playOrder="55">
+            <navLabel>
+                <text>Jezero</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_032.html"/>
+        </navPoint>
+        <navPoint id="navPoint-56" playOrder="56">
+            <navLabel>
+                <text>Duchové mrtvých</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_033.html"/>
+        </navPoint>
+        <navPoint id="navPoint-57" playOrder="57">
+            <navLabel>
+                <text>Země vil</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_034.html"/>
+        </navPoint>
+        <navPoint id="navPoint-58" playOrder="58">
+            <navLabel>
+                <text>M. L. S.</text>
+            </navLabel>
+            <content src="Text/havran_a_jine_basne_split_035.html"/>
+        </navPoint>
+    </navMap>
+</ncx>
