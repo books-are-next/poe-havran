@@ -50,7 +50,7 @@ tocBase:
     children:
       - link: havran_a_jine_basne_split_002.html
         title: Z předmluvy básníkovy
-        hiddenTitle: true
+        hiddenTitle: false
       - link: havran_a_jine_basne_split_003.html
         title: Havran
         hiddenTitle: false
