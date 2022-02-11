@@ -20,7 +20,7 @@
       "br": "",
       "brBefore": "e-bookversebezpredsazeni6bza e-booktirazodsazeni6b ",
       "brAfter": "",
-      "blockquote": "e-booktextvenovaniCxSpFirst e-booktextvenovaniCxSpLast ",
+      "blockquote": "",
       "figure": "",
       "em": "e-booktirazacitacetextkurzivaChar ebookpodpiskurziva e-booktextvenovaniCxSpLast e-booktextvenovaniCxSpFirst",
       "strong": "e-booktiraztexttucneChar e-booktirazautoradilo ",
@@ -61,7 +61,7 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": true,
+            "hiddenTitle": false,
             "children": []
           },
           {
@@ -72,8 +72,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Havran"
+            "title": "Havran",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_004.md",
@@ -83,8 +83,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Lenora"
+            "title": "Lenora",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_005.md",
@@ -94,8 +94,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Hymnus"
+            "title": "Hymnus",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_006.md",
@@ -105,8 +105,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sloky Heleně"
+            "title": "Sloky Heleně",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_007.md",
@@ -116,8 +116,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Kolosseum"
+            "title": "Kolosseum",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_008.md",
@@ -127,8 +127,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Heleně"
+            "title": "Heleně",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_009.md",
@@ -138,8 +138,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Své matce"
+            "title": "Své matce",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_010.md",
@@ -149,8 +149,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zvony"
+            "title": "Zvony",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_011.md",
@@ -160,8 +160,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Annabel-Lee"
+            "title": "Annabel-Lee",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_012.md",
@@ -171,8 +171,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Eulalie"
+            "title": "Eulalie",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_013.md",
@@ -182,8 +182,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ulalum"
+            "title": "Ulalum",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_014.md",
@@ -193,8 +193,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "F—S. S. O—D."
+            "title": "F—S. S. O—D.",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_015.md",
@@ -204,8 +204,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Spící"
+            "title": "Spící",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_016.md",
@@ -215,8 +215,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Očarovaný palác"
+            "title": "Očarovaný palác",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_017.md",
@@ -226,8 +226,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ostrovu Zante"
+            "title": "Ostrovu Zante",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_018.md",
@@ -237,8 +237,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zem snů"
+            "title": "Zem snů",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_019.md",
@@ -248,8 +248,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Město v moři"
+            "title": "Město v moři",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_020.md",
@@ -259,8 +259,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Někomu v ráji"
+            "title": "Někomu v ráji",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_021.md",
@@ -270,8 +270,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Eldorádo"
+            "title": "Eldorádo",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_022.md",
@@ -281,8 +281,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Údolí neklidu"
+            "title": "Údolí neklidu",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_023.md",
@@ -292,8 +292,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen ve snu"
+            "title": "Sen ve snu",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_024.md",
@@ -303,8 +303,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ticho"
+            "title": "Ticho",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_025.md",
@@ -314,8 +314,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Červ dobyvatel"
+            "title": "Červ dobyvatel",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_026.md",
@@ -325,8 +325,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pro Annie"
+            "title": "Pro Annie",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_027.md",
@@ -336,8 +336,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Svatební Ballada"
+            "title": "Svatební Ballada",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_028.md",
@@ -347,8 +347,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Israfel"
+            "title": "Israfel",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_029.md",
@@ -358,8 +358,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "F…"
+            "title": "F…",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_030.md",
@@ -369,8 +369,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Já nedbám…"
+            "title": "Já nedbám…",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_031.md",
@@ -380,8 +380,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "M. L. S."
+            "title": "M. L. S.",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_032.md",
@@ -391,8 +391,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Jezero"
+            "title": "Jezero",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_033.md",
@@ -402,8 +402,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Duchové mrtvých"
+            "title": "Duchové mrtvých",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_034.md",
@@ -413,8 +413,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Země vil"
+            "title": "Země vil",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_035.md",
@@ -424,8 +424,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "M. L. S."
+            "title": "M. L. S.",
+            "children": []
           },
           {
             "filename": "havran_a_jine_basne_split_036.md",
@@ -446,7 +446,7 @@
       "title": "Havran a jiné básně",
       "identifier": "17e81c75-3f9a-40be-b383-9435727eb7fe",
       "author": "Edgar Allan Poe",
-      "modified": "2022-02-11T09:38:07.351Z"
+      "modified": "2022-02-11T09:45:23.291Z"
     },
     "chapters": [
       {
@@ -752,6 +752,6 @@
       "user": "books-are-next",
       "repo": "poe-havran"
     },
-    "generatedAt": 1644572287772
+    "generatedAt": 1644572723706
   }
 }

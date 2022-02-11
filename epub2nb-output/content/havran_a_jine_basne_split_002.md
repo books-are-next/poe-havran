@@ -1,6 +1,5 @@
 ---
 title: Z předmluvy básníkovy
-hiddenTitle: true
 ---
 
 Pro mne nebyla poesie cílem, jejž si kdo určuje, nýbrž vášní, a s vášněmi třeba zacházeti s největší šetrností, nelze jich vzněcovati svévolně v naději nepatrných výhod neb ještě nepatrnějšího úspěchu u obecenstva.
@@ -13,6 +12,6 @@ Básně tyto jsou hluboké a mihotavé jak sen, tajuplné a bezvadné jak křiš
 
 _Charles Baudelaire_
 
-> _J. V. Sládkovi_
+_J. V. Sládkovi_
 
-> _v oddanosti bratrské, v pamět společných snah a stejné práce_
+_v oddanosti bratrské, v pamět společných snah a stejné práce_
