@@ -1,0 +1,727 @@
+{
+  "author": "Edgar Allan Poe",
+  "identifier": "poe-havran-a-jine-basne-1ddca3e",
+  "languagecode": "cs",
+  "modified": "2022-02-09T15:06:32.904Z",
+  "publishershort": "mkp",
+  "title": "Havran a jiné básně",
+  "revision": "1ddca3e",
+  "generatedAt": {
+    "date": "Fri Feb 11 2022 09:33:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1644572035336
+  },
+  "documents": [
+    {
+      "title": "Z předmluvy básníkovy • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_002.html",
+      "words": 88,
+      "chars": 544,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "havran_a_jine_basne_split_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Z předmluvy básníkovy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Havran • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_003.html",
+      "words": 928,
+      "chars": 4900,
+      "ideas": 199,
+      "role": "chapter",
+      "order": 1,
+      "prev": "havran_a_jine_basne_split_002.html",
+      "next": "havran_a_jine_basne_split_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Havran",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lenora • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_004.html",
+      "words": 281,
+      "chars": 1497,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 2,
+      "prev": "havran_a_jine_basne_split_003.html",
+      "next": "havran_a_jine_basne_split_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lenora",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hymnus • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_005.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 3,
+      "prev": "havran_a_jine_basne_split_004.html",
+      "next": "havran_a_jine_basne_split_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hymnus",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sloky Heleně • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_006.html",
+      "words": 82,
+      "chars": 462,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 4,
+      "prev": "havran_a_jine_basne_split_005.html",
+      "next": "havran_a_jine_basne_split_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sloky Heleně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kolosseum • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_007.html",
+      "words": 287,
+      "chars": 1558,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 5,
+      "prev": "havran_a_jine_basne_split_006.html",
+      "next": "havran_a_jine_basne_split_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kolosseum",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Heleně • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_008.html",
+      "words": 428,
+      "chars": 2262,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 6,
+      "prev": "havran_a_jine_basne_split_007.html",
+      "next": "havran_a_jine_basne_split_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Heleně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Své matce • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_009.html",
+      "words": 2,
+      "chars": 9,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 7,
+      "prev": "havran_a_jine_basne_split_008.html",
+      "next": "havran_a_jine_basne_split_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Své matce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zvony • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_010.html",
+      "words": 524,
+      "chars": 2783,
+      "ideas": 118,
+      "role": "chapter",
+      "order": 8,
+      "prev": "havran_a_jine_basne_split_009.html",
+      "next": "havran_a_jine_basne_split_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zvony",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Annabel-Lee • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_011.html",
+      "words": 245,
+      "chars": 1207,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 9,
+      "prev": "havran_a_jine_basne_split_010.html",
+      "next": "havran_a_jine_basne_split_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Annabel-Lee",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Eulalie • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_012.html",
+      "words": 111,
+      "chars": 624,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 10,
+      "prev": "havran_a_jine_basne_split_011.html",
+      "next": "havran_a_jine_basne_split_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Eulalie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ulalum • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_013.html",
+      "words": 610,
+      "chars": 3195,
+      "ideas": 95,
+      "role": "chapter",
+      "order": 11,
+      "prev": "havran_a_jine_basne_split_012.html",
+      "next": "havran_a_jine_basne_split_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ulalum",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "F—S. S. O—D. • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_014.html",
+      "words": 3,
+      "chars": 12,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 12,
+      "prev": "havran_a_jine_basne_split_013.html",
+      "next": "havran_a_jine_basne_split_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "F—S. S. O—D.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Spící • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_015.html",
+      "words": 334,
+      "chars": 1721,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 13,
+      "prev": "havran_a_jine_basne_split_014.html",
+      "next": "havran_a_jine_basne_split_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Spící",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Očarovaný palác • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_016.html",
+      "words": 235,
+      "chars": 1328,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 14,
+      "prev": "havran_a_jine_basne_split_015.html",
+      "next": "havran_a_jine_basne_split_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Očarovaný palác",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrovu Zante • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_017.html",
+      "words": 2,
+      "chars": 13,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 15,
+      "prev": "havran_a_jine_basne_split_016.html",
+      "next": "havran_a_jine_basne_split_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrovu Zante",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zem snů • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_018.html",
+      "words": 319,
+      "chars": 1622,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 16,
+      "prev": "havran_a_jine_basne_split_017.html",
+      "next": "havran_a_jine_basne_split_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zem snů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Město v moři • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_019.html",
+      "words": 306,
+      "chars": 1648,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 17,
+      "prev": "havran_a_jine_basne_split_018.html",
+      "next": "havran_a_jine_basne_split_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Město v moři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Někomu v ráji • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_020.html",
+      "words": 145,
+      "chars": 736,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 18,
+      "prev": "havran_a_jine_basne_split_019.html",
+      "next": "havran_a_jine_basne_split_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Někomu v ráji",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Eldorádo • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_021.html",
+      "words": 86,
+      "chars": 440,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 19,
+      "prev": "havran_a_jine_basne_split_020.html",
+      "next": "havran_a_jine_basne_split_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Eldorádo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Údolí neklidu • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_022.html",
+      "words": 2,
+      "chars": 13,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 20,
+      "prev": "havran_a_jine_basne_split_021.html",
+      "next": "havran_a_jine_basne_split_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Údolí neklidu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen ve snu • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_023.html",
+      "words": 135,
+      "chars": 666,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 21,
+      "prev": "havran_a_jine_basne_split_022.html",
+      "next": "havran_a_jine_basne_split_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen ve snu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ticho • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_024.html",
+      "words": 1,
+      "chars": 5,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 22,
+      "prev": "havran_a_jine_basne_split_023.html",
+      "next": "havran_a_jine_basne_split_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ticho",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červ dobyvatel • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_025.html",
+      "words": 212,
+      "chars": 1170,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 23,
+      "prev": "havran_a_jine_basne_split_024.html",
+      "next": "havran_a_jine_basne_split_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červ dobyvatel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pro Annie • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_026.html",
+      "words": 370,
+      "chars": 1783,
+      "ideas": 103,
+      "role": "chapter",
+      "order": 24,
+      "prev": "havran_a_jine_basne_split_025.html",
+      "next": "havran_a_jine_basne_split_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pro Annie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svatební Ballada • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_027.html",
+      "words": 143,
+      "chars": 714,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 25,
+      "prev": "havran_a_jine_basne_split_026.html",
+      "next": "havran_a_jine_basne_split_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svatební Ballada",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Israfel • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_028.html",
+      "words": 246,
+      "chars": 1281,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 26,
+      "prev": "havran_a_jine_basne_split_027.html",
+      "next": "havran_a_jine_basne_split_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Israfel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "F… • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_029.html",
+      "words": 74,
+      "chars": 360,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 27,
+      "prev": "havran_a_jine_basne_split_028.html",
+      "next": "havran_a_jine_basne_split_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "F…",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Já nedbám… • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_030.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 28,
+      "prev": "havran_a_jine_basne_split_029.html",
+      "next": "havran_a_jine_basne_split_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Já nedbám…",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "M. L. S. • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_031.html",
+      "words": 3,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 29,
+      "prev": "havran_a_jine_basne_split_030.html",
+      "next": "havran_a_jine_basne_split_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "M. L. S.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jezero • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_032.html",
+      "words": 140,
+      "chars": 725,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 30,
+      "prev": "havran_a_jine_basne_split_031.html",
+      "next": "havran_a_jine_basne_split_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jezero",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Duchové mrtvých • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_033.html",
+      "words": 155,
+      "chars": 815,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 31,
+      "prev": "havran_a_jine_basne_split_032.html",
+      "next": "havran_a_jine_basne_split_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Duchové mrtvých",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Země vil • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_034.html",
+      "words": 2,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 32,
+      "prev": "havran_a_jine_basne_split_033.html",
+      "next": "havran_a_jine_basne_split_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Země vil",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "M. L. S. • Havran a jiné básně",
+      "file": "havran_a_jine_basne_split_035.html",
+      "words": 3,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 33,
+      "prev": "havran_a_jine_basne_split_034.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "M. L. S.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Havran a jiné básně",
+      "file": "colophon.html",
+      "words": 160,
+      "chars": 1033,
+      "ideas": 17,
+      "role": "colophon",
+      "order": null,
+      "prev": "havran_a_jine_basne_split_035.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 6673,
+      "chars": 35203,
+      "ideas": 1291
+    },
+    "chapters": {
+      "words": 6505,
+      "chars": 34133,
+      "ideas": 1271
+    }
+  }
+}

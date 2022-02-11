@@ -1,0 +1,41 @@
+---
+title: "Někomu v\_ráji"
+---
+
+  
+
+Tys tím vším pro mne byla, duše,  
+po čem jsem práhnul jedině,  
+na moři výspa milá, duše,  
+můj pramen a má svatyně,  
+kol plody, květy obsypána  
+jež byly mé v té pustině!
+
+  
+
+Ten dlouho trvat nemoh sen!  
+Proč vzplálas, Naději má, plna hvězd,  
+když kleslas v zmar a plen!  
+Já z lůna Budoucnosti slyším zvěst  
+ku předu, ku předu jen!  
+Nad Minulostí — chmurná strž to jest —  
+dlím bezduch, něm a vyděšen!
+
+  
+
+Ach běda, běda zhas  
+mi pro vždy žití svit  
+a Nikdy! Nikdy zas  
+(ten na písčině znít  
+já slyším z moře hlas)  
+nemožno, aby orel zdrcen vzlít,  
+strom zkvet, jejž zdrtil hromu ráz!
+
+  
+
+Mé dny jsou extase teskné,  
+mé noční sny jsou můj svět,  
+kde černý tvůj zrak se leskne,  
+kde plá tvých kroků sled,  
+vod věčných, bůh ví kde, proudy kdes bleskné,  
+etherných vírů, bůh ví kde, let!
