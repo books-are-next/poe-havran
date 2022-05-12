@@ -1,5 +1,6 @@
 ---
 title: Ticho
+contentType: prose
 ---
 
   

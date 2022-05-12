@@ -1,5 +1,6 @@
 ---
 title: Israfel
+contentType: prose
 ---
 
   

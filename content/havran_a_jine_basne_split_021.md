@@ -1,5 +1,6 @@
 ---
 title: Eldorádo
+contentType: prose
 ---
 
   

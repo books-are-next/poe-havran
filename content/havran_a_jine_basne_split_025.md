@@ -1,5 +1,6 @@
 ---
 title: Červ dobyvatel
+contentType: prose
 ---
 
   

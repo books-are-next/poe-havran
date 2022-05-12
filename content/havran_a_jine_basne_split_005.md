@@ -1,5 +1,6 @@
 ---
 title: Hymnus
+contentType: prose
 ---
 
   

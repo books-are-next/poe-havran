@@ -1,5 +1,6 @@
 ---
 title: Ulalum
+contentType: prose
 ---
 
   

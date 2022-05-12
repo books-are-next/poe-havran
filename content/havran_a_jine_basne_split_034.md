@@ -1,5 +1,6 @@
 ---
 title: Země vil
+contentType: prose
 ---
 
   

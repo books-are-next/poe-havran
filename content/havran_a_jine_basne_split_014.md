@@ -1,5 +1,6 @@
 ---
-title: F—S. S. O—D.
+title: F—S\. S\. O—D\.
+contentType: prose
 ---
 
   

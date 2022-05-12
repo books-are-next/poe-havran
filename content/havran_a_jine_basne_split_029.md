@@ -1,5 +1,6 @@
 ---
 title: F…
+contentType: prose
 ---
 
   

@@ -1,5 +1,6 @@
 ---
 title: Ostrovu Zante
+contentType: prose
 ---
 
   

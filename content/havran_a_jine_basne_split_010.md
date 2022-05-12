@@ -1,5 +1,6 @@
 ---
 title: Zvony
+contentType: prose
 ---
 
 ### I.

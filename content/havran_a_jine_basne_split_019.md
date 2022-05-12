@@ -1,5 +1,6 @@
 ---
 title: "Město v\_moři"
+contentType: prose
 ---
 
 ### I.

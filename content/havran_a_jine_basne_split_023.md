@@ -1,5 +1,6 @@
 ---
 title: Sen ve snu
+contentType: prose
 ---
 
 ### I.

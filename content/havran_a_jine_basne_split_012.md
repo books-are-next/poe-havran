@@ -1,5 +1,6 @@
 ---
 title: Eulalie
+contentType: prose
 ---
 
   

@@ -1,5 +1,6 @@
 ---
 title: Spící
+contentType: prose
 ---
 
 ### I.

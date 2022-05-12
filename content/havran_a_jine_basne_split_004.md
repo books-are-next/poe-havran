@@ -1,5 +1,6 @@
 ---
 title: Lenora
+contentType: prose
 ---
 
 ### I.

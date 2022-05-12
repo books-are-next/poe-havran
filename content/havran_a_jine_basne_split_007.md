@@ -1,5 +1,6 @@
 ---
 title: Kolosseum
+contentType: prose
 ---
 
   

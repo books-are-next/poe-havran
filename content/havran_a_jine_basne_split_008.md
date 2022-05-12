@@ -1,5 +1,6 @@
 ---
 title: Heleně
+contentType: prose
 ---
 
   
