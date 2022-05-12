@@ -11,6 +11,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
 readingOrder:
+  - promo.html
   - havran_a_jine_basne_split_002.html
   - havran_a_jine_basne_split_003.html
   - havran_a_jine_basne_split_004.html

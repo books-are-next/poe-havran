@@ -6,9 +6,10 @@
   "author": "Edgar Allan Poe",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "poe-havran-a-jine-basne-c990e20",
-  "revision": "c990e20",
+  "identifier": "poe-havran-a-jine-basne-9ba350a",
+  "revision": "9ba350a",
   "readingOrder": [
+    "promo.html",
     "havran_a_jine_basne_split_002.html",
     "havran_a_jine_basne_split_003.html",
     "havran_a_jine_basne_split_004.html",
@@ -46,10 +47,22 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:38:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351929869
+    "date": "Thu May 12 2022 15:12:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652368357055
   },
   "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "havran_a_jine_basne_split_002.html",
+      "toc": []
+    },
     {
       "title": "Z předmluvy básníkovy",
       "file": "havran_a_jine_basne_split_002.html",
@@ -57,8 +70,8 @@
       "chars": 544,
       "ideas": 8,
       "role": "chapter",
-      "order": 0,
-      "prev": null,
+      "order": 1,
+      "prev": "promo.html",
       "next": "havran_a_jine_basne_split_003.html",
       "toc": [
         {
@@ -77,7 +90,7 @@
       "chars": 4900,
       "ideas": 199,
       "role": "chapter",
-      "order": 1,
+      "order": 2,
       "prev": "havran_a_jine_basne_split_002.html",
       "next": "havran_a_jine_basne_split_004.html",
       "toc": [
@@ -97,7 +110,7 @@
       "chars": 1497,
       "ideas": 31,
       "role": "chapter",
-      "order": 2,
+      "order": 3,
       "prev": "havran_a_jine_basne_split_003.html",
       "next": "havran_a_jine_basne_split_005.html",
       "toc": [
@@ -117,7 +130,7 @@
       "chars": 6,
       "ideas": 1,
       "role": "chapter",
-      "order": 3,
+      "order": 4,
       "prev": "havran_a_jine_basne_split_004.html",
       "next": "havran_a_jine_basne_split_006.html",
       "toc": [
@@ -137,7 +150,7 @@
       "chars": 462,
       "ideas": 16,
       "role": "chapter",
-      "order": 4,
+      "order": 5,
       "prev": "havran_a_jine_basne_split_005.html",
       "next": "havran_a_jine_basne_split_007.html",
       "toc": [
@@ -157,7 +170,7 @@
       "chars": 1558,
       "ideas": 47,
       "role": "chapter",
-      "order": 5,
+      "order": 6,
       "prev": "havran_a_jine_basne_split_006.html",
       "next": "havran_a_jine_basne_split_008.html",
       "toc": [
@@ -177,7 +190,7 @@
       "chars": 2262,
       "ideas": 67,
       "role": "chapter",
-      "order": 6,
+      "order": 7,
       "prev": "havran_a_jine_basne_split_007.html",
       "next": "havran_a_jine_basne_split_009.html",
       "toc": [
@@ -197,7 +210,7 @@
       "chars": 9,
       "ideas": 1,
       "role": "chapter",
-      "order": 7,
+      "order": 8,
       "prev": "havran_a_jine_basne_split_008.html",
       "next": "havran_a_jine_basne_split_010.html",
       "toc": [
@@ -217,7 +230,7 @@
       "chars": 2783,
       "ideas": 118,
       "role": "chapter",
-      "order": 8,
+      "order": 9,
       "prev": "havran_a_jine_basne_split_009.html",
       "next": "havran_a_jine_basne_split_011.html",
       "toc": [
@@ -237,7 +250,7 @@
       "chars": 1207,
       "ideas": 42,
       "role": "chapter",
-      "order": 9,
+      "order": 10,
       "prev": "havran_a_jine_basne_split_010.html",
       "next": "havran_a_jine_basne_split_012.html",
       "toc": [
@@ -257,7 +270,7 @@
       "chars": 624,
       "ideas": 28,
       "role": "chapter",
-      "order": 10,
+      "order": 11,
       "prev": "havran_a_jine_basne_split_011.html",
       "next": "havran_a_jine_basne_split_013.html",
       "toc": [
@@ -277,7 +290,7 @@
       "chars": 3195,
       "ideas": 95,
       "role": "chapter",
-      "order": 11,
+      "order": 12,
       "prev": "havran_a_jine_basne_split_012.html",
       "next": "havran_a_jine_basne_split_014.html",
       "toc": [
@@ -297,7 +310,7 @@
       "chars": 12,
       "ideas": 1,
       "role": "chapter",
-      "order": 12,
+      "order": 13,
       "prev": "havran_a_jine_basne_split_013.html",
       "next": "havran_a_jine_basne_split_015.html",
       "toc": [
@@ -317,7 +330,7 @@
       "chars": 1721,
       "ideas": 66,
       "role": "chapter",
-      "order": 13,
+      "order": 14,
       "prev": "havran_a_jine_basne_split_014.html",
       "next": "havran_a_jine_basne_split_016.html",
       "toc": [
@@ -337,7 +350,7 @@
       "chars": 1328,
       "ideas": 49,
       "role": "chapter",
-      "order": 14,
+      "order": 15,
       "prev": "havran_a_jine_basne_split_015.html",
       "next": "havran_a_jine_basne_split_017.html",
       "toc": [
@@ -357,7 +370,7 @@
       "chars": 13,
       "ideas": 1,
       "role": "chapter",
-      "order": 15,
+      "order": 16,
       "prev": "havran_a_jine_basne_split_016.html",
       "next": "havran_a_jine_basne_split_018.html",
       "toc": [
@@ -377,7 +390,7 @@
       "chars": 1622,
       "ideas": 62,
       "role": "chapter",
-      "order": 16,
+      "order": 17,
       "prev": "havran_a_jine_basne_split_017.html",
       "next": "havran_a_jine_basne_split_019.html",
       "toc": [
@@ -397,7 +410,7 @@
       "chars": 1648,
       "ideas": 58,
       "role": "chapter",
-      "order": 17,
+      "order": 18,
       "prev": "havran_a_jine_basne_split_018.html",
       "next": "havran_a_jine_basne_split_020.html",
       "toc": [
@@ -417,7 +430,7 @@
       "chars": 736,
       "ideas": 27,
       "role": "chapter",
-      "order": 18,
+      "order": 19,
       "prev": "havran_a_jine_basne_split_019.html",
       "next": "havran_a_jine_basne_split_021.html",
       "toc": [
@@ -437,7 +450,7 @@
       "chars": 440,
       "ideas": 25,
       "role": "chapter",
-      "order": 19,
+      "order": 20,
       "prev": "havran_a_jine_basne_split_020.html",
       "next": "havran_a_jine_basne_split_022.html",
       "toc": [
@@ -457,7 +470,7 @@
       "chars": 13,
       "ideas": 1,
       "role": "chapter",
-      "order": 20,
+      "order": 21,
       "prev": "havran_a_jine_basne_split_021.html",
       "next": "havran_a_jine_basne_split_023.html",
       "toc": [
@@ -477,7 +490,7 @@
       "chars": 666,
       "ideas": 27,
       "role": "chapter",
-      "order": 21,
+      "order": 22,
       "prev": "havran_a_jine_basne_split_022.html",
       "next": "havran_a_jine_basne_split_024.html",
       "toc": [
@@ -497,7 +510,7 @@
       "chars": 5,
       "ideas": 1,
       "role": "chapter",
-      "order": 22,
+      "order": 23,
       "prev": "havran_a_jine_basne_split_023.html",
       "next": "havran_a_jine_basne_split_025.html",
       "toc": [
@@ -517,7 +530,7 @@
       "chars": 1170,
       "ideas": 41,
       "role": "chapter",
-      "order": 23,
+      "order": 24,
       "prev": "havran_a_jine_basne_split_024.html",
       "next": "havran_a_jine_basne_split_026.html",
       "toc": [
@@ -537,7 +550,7 @@
       "chars": 1783,
       "ideas": 103,
       "role": "chapter",
-      "order": 24,
+      "order": 25,
       "prev": "havran_a_jine_basne_split_025.html",
       "next": "havran_a_jine_basne_split_027.html",
       "toc": [
@@ -557,7 +570,7 @@
       "chars": 714,
       "ideas": 32,
       "role": "chapter",
-      "order": 25,
+      "order": 26,
       "prev": "havran_a_jine_basne_split_026.html",
       "next": "havran_a_jine_basne_split_028.html",
       "toc": [
@@ -577,7 +590,7 @@
       "chars": 1281,
       "ideas": 52,
       "role": "chapter",
-      "order": 26,
+      "order": 27,
       "prev": "havran_a_jine_basne_split_027.html",
       "next": "havran_a_jine_basne_split_029.html",
       "toc": [
@@ -597,7 +610,7 @@
       "chars": 360,
       "ideas": 15,
       "role": "chapter",
-      "order": 27,
+      "order": 28,
       "prev": "havran_a_jine_basne_split_028.html",
       "next": "havran_a_jine_basne_split_030.html",
       "toc": [
@@ -617,7 +630,7 @@
       "chars": 10,
       "ideas": 1,
       "role": "chapter",
-      "order": 28,
+      "order": 29,
       "prev": "havran_a_jine_basne_split_029.html",
       "next": "havran_a_jine_basne_split_031.html",
       "toc": [
@@ -637,7 +650,7 @@
       "chars": 8,
       "ideas": 1,
       "role": "chapter",
-      "order": 29,
+      "order": 30,
       "prev": "havran_a_jine_basne_split_030.html",
       "next": "havran_a_jine_basne_split_032.html",
       "toc": [
@@ -657,7 +670,7 @@
       "chars": 725,
       "ideas": 24,
       "role": "chapter",
-      "order": 30,
+      "order": 31,
       "prev": "havran_a_jine_basne_split_031.html",
       "next": "havran_a_jine_basne_split_033.html",
       "toc": [
@@ -677,7 +690,7 @@
       "chars": 815,
       "ideas": 29,
       "role": "chapter",
-      "order": 31,
+      "order": 32,
       "prev": "havran_a_jine_basne_split_032.html",
       "next": "havran_a_jine_basne_split_034.html",
       "toc": [
@@ -697,7 +710,7 @@
       "chars": 8,
       "ideas": 1,
       "role": "chapter",
-      "order": 32,
+      "order": 33,
       "prev": "havran_a_jine_basne_split_033.html",
       "next": "havran_a_jine_basne_split_035.html",
       "toc": [
@@ -717,7 +730,7 @@
       "chars": 8,
       "ideas": 1,
       "role": "chapter",
-      "order": 33,
+      "order": 34,
       "prev": "havran_a_jine_basne_split_034.html",
       "next": "colophon.html",
       "toc": [
