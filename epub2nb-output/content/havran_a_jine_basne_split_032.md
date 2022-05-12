@@ -1,5 +1,6 @@
 ---
 title: Jezero
+contentType: prose
 ---
 
   

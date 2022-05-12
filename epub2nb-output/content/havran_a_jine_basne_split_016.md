@@ -1,5 +1,6 @@
 ---
 title: Očarovaný palác
+contentType: prose
 ---
 
   

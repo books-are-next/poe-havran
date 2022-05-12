@@ -446,7 +446,7 @@
       "title": "Havran a jiné básně",
       "identifier": "17e81c75-3f9a-40be-b383-9435727eb7fe",
       "author": "Edgar Allan Poe",
-      "modified": "2022-02-11T09:45:23.291Z"
+      "modified": "2013-08-07T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -534,7 +534,7 @@
         "xhtml": "havran_a_jine_basne_split_013.html"
       },
       {
-        "titleSuggest": "F—S. S. O—D.",
+        "titleSuggest": "F—S\\. S\\. O—D\\.",
         "subtitleSuggest": "",
         "filename": "havran_a_jine_basne_split_014.md",
         "xhtml": "havran_a_jine_basne_split_014.html"
@@ -636,7 +636,7 @@
         "xhtml": "havran_a_jine_basne_split_030.html"
       },
       {
-        "titleSuggest": "M. L. S.",
+        "titleSuggest": "M\\. L\\. S\\.",
         "subtitleSuggest": "",
         "filename": "havran_a_jine_basne_split_031.md",
         "xhtml": "havran_a_jine_basne_split_031.html"
@@ -660,7 +660,7 @@
         "xhtml": "havran_a_jine_basne_split_034.html"
       },
       {
-        "titleSuggest": "M. L. S.",
+        "titleSuggest": "M\\. L\\. S\\.",
         "subtitleSuggest": "",
         "filename": "havran_a_jine_basne_split_035.md",
         "xhtml": "havran_a_jine_basne_split_035.html"
@@ -752,6 +752,6 @@
       "user": "books-are-next",
       "repo": "poe-havran"
     },
-    "generatedAt": 1644572723706
+    "generatedAt": 1652351432469
   }
 }

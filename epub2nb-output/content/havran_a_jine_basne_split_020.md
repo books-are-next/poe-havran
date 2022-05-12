@@ -1,5 +1,6 @@
 ---
 title: "Někomu v\_ráji"
+contentType: prose
 ---
 
   

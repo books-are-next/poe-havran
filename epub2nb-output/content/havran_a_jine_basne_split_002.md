@@ -1,5 +1,6 @@
 ---
 title: Z předmluvy básníkovy
+contentType: prose
 ---
 
 Pro mne nebyla poesie cílem, jejž si kdo určuje, nýbrž vášní, a s vášněmi třeba zacházeti s největší šetrností, nelze jich vzněcovati svévolně v naději nepatrných výhod neb ještě nepatrnějšího úspěchu u obecenstva.

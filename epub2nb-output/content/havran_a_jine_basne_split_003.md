@@ -1,5 +1,6 @@
 ---
 title: Havran
+contentType: prose
 ---
 
   

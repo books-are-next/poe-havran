@@ -1,5 +1,6 @@
 ---
-title: "M.\_L.\_S."
+title: "M\\.\_L\\.\_S\\."
+contentType: prose
 ---
 
   

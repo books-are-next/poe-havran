@@ -1,5 +1,6 @@
 ---
 title: Zem snů
+contentType: prose
 ---
 
 ### I.

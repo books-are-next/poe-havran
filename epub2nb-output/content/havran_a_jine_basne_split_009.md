@@ -1,5 +1,6 @@
 ---
 title: Své matce
+contentType: prose
 ---
 
   

@@ -1,18 +1,57 @@
 {
-  "author": "Edgar Allan Poe",
-  "identifier": "poe-havran-a-jine-basne-b9ce5d2",
-  "languagecode": "cs",
-  "modified": "2022-02-09T15:06:32.904Z",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Havran a jiné básně",
-  "revision": "b9ce5d2",
+  "author": "Edgar Allan Poe",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "poe-havran-a-jine-basne-c990e20",
+  "revision": "c990e20",
+  "readingOrder": [
+    "havran_a_jine_basne_split_002.html",
+    "havran_a_jine_basne_split_003.html",
+    "havran_a_jine_basne_split_004.html",
+    "havran_a_jine_basne_split_005.html",
+    "havran_a_jine_basne_split_006.html",
+    "havran_a_jine_basne_split_007.html",
+    "havran_a_jine_basne_split_008.html",
+    "havran_a_jine_basne_split_009.html",
+    "havran_a_jine_basne_split_010.html",
+    "havran_a_jine_basne_split_011.html",
+    "havran_a_jine_basne_split_012.html",
+    "havran_a_jine_basne_split_013.html",
+    "havran_a_jine_basne_split_014.html",
+    "havran_a_jine_basne_split_015.html",
+    "havran_a_jine_basne_split_016.html",
+    "havran_a_jine_basne_split_017.html",
+    "havran_a_jine_basne_split_018.html",
+    "havran_a_jine_basne_split_019.html",
+    "havran_a_jine_basne_split_020.html",
+    "havran_a_jine_basne_split_021.html",
+    "havran_a_jine_basne_split_022.html",
+    "havran_a_jine_basne_split_023.html",
+    "havran_a_jine_basne_split_024.html",
+    "havran_a_jine_basne_split_025.html",
+    "havran_a_jine_basne_split_026.html",
+    "havran_a_jine_basne_split_027.html",
+    "havran_a_jine_basne_split_028.html",
+    "havran_a_jine_basne_split_029.html",
+    "havran_a_jine_basne_split_030.html",
+    "havran_a_jine_basne_split_031.html",
+    "havran_a_jine_basne_split_032.html",
+    "havran_a_jine_basne_split_033.html",
+    "havran_a_jine_basne_split_034.html",
+    "havran_a_jine_basne_split_035.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Feb 11 2022 09:46:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1644572780924
+    "date": "Thu May 12 2022 10:38:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351929869
   },
   "documents": [
     {
-      "title": "Z předmluvy básníkovy • Havran a jiné básně",
+      "title": "Z předmluvy básníkovy",
       "file": "havran_a_jine_basne_split_002.html",
       "words": 88,
       "chars": 544,
@@ -32,7 +71,7 @@
       ]
     },
     {
-      "title": "Havran • Havran a jiné básně",
+      "title": "Havran",
       "file": "havran_a_jine_basne_split_003.html",
       "words": 928,
       "chars": 4900,
@@ -52,7 +91,7 @@
       ]
     },
     {
-      "title": "Lenora • Havran a jiné básně",
+      "title": "Lenora",
       "file": "havran_a_jine_basne_split_004.html",
       "words": 281,
       "chars": 1497,
@@ -72,7 +111,7 @@
       ]
     },
     {
-      "title": "Hymnus • Havran a jiné básně",
+      "title": "Hymnus",
       "file": "havran_a_jine_basne_split_005.html",
       "words": 1,
       "chars": 6,
@@ -92,7 +131,7 @@
       ]
     },
     {
-      "title": "Sloky Heleně • Havran a jiné básně",
+      "title": "Sloky Heleně",
       "file": "havran_a_jine_basne_split_006.html",
       "words": 82,
       "chars": 462,
@@ -112,7 +151,7 @@
       ]
     },
     {
-      "title": "Kolosseum • Havran a jiné básně",
+      "title": "Kolosseum",
       "file": "havran_a_jine_basne_split_007.html",
       "words": 287,
       "chars": 1558,
@@ -132,7 +171,7 @@
       ]
     },
     {
-      "title": "Heleně • Havran a jiné básně",
+      "title": "Heleně",
       "file": "havran_a_jine_basne_split_008.html",
       "words": 428,
       "chars": 2262,
@@ -152,7 +191,7 @@
       ]
     },
     {
-      "title": "Své matce • Havran a jiné básně",
+      "title": "Své matce",
       "file": "havran_a_jine_basne_split_009.html",
       "words": 2,
       "chars": 9,
@@ -172,7 +211,7 @@
       ]
     },
     {
-      "title": "Zvony • Havran a jiné básně",
+      "title": "Zvony",
       "file": "havran_a_jine_basne_split_010.html",
       "words": 524,
       "chars": 2783,
@@ -192,7 +231,7 @@
       ]
     },
     {
-      "title": "Annabel-Lee • Havran a jiné básně",
+      "title": "Annabel-Lee",
       "file": "havran_a_jine_basne_split_011.html",
       "words": 245,
       "chars": 1207,
@@ -212,7 +251,7 @@
       ]
     },
     {
-      "title": "Eulalie • Havran a jiné básně",
+      "title": "Eulalie",
       "file": "havran_a_jine_basne_split_012.html",
       "words": 111,
       "chars": 624,
@@ -232,7 +271,7 @@
       ]
     },
     {
-      "title": "Ulalum • Havran a jiné básně",
+      "title": "Ulalum",
       "file": "havran_a_jine_basne_split_013.html",
       "words": 610,
       "chars": 3195,
@@ -252,7 +291,7 @@
       ]
     },
     {
-      "title": "F—S. S. O—D. • Havran a jiné básně",
+      "title": "F—S. S. O—D.",
       "file": "havran_a_jine_basne_split_014.html",
       "words": 3,
       "chars": 12,
@@ -272,7 +311,7 @@
       ]
     },
     {
-      "title": "Spící • Havran a jiné básně",
+      "title": "Spící",
       "file": "havran_a_jine_basne_split_015.html",
       "words": 334,
       "chars": 1721,
@@ -292,7 +331,7 @@
       ]
     },
     {
-      "title": "Očarovaný palác • Havran a jiné básně",
+      "title": "Očarovaný palác",
       "file": "havran_a_jine_basne_split_016.html",
       "words": 235,
       "chars": 1328,
@@ -312,7 +351,7 @@
       ]
     },
     {
-      "title": "Ostrovu Zante • Havran a jiné básně",
+      "title": "Ostrovu Zante",
       "file": "havran_a_jine_basne_split_017.html",
       "words": 2,
       "chars": 13,
@@ -332,7 +371,7 @@
       ]
     },
     {
-      "title": "Zem snů • Havran a jiné básně",
+      "title": "Zem snů",
       "file": "havran_a_jine_basne_split_018.html",
       "words": 319,
       "chars": 1622,
@@ -352,7 +391,7 @@
       ]
     },
     {
-      "title": "Město v moři • Havran a jiné básně",
+      "title": "Město v moři",
       "file": "havran_a_jine_basne_split_019.html",
       "words": 306,
       "chars": 1648,
@@ -372,7 +411,7 @@
       ]
     },
     {
-      "title": "Někomu v ráji • Havran a jiné básně",
+      "title": "Někomu v ráji",
       "file": "havran_a_jine_basne_split_020.html",
       "words": 145,
       "chars": 736,
@@ -392,7 +431,7 @@
       ]
     },
     {
-      "title": "Eldorádo • Havran a jiné básně",
+      "title": "Eldorádo",
       "file": "havran_a_jine_basne_split_021.html",
       "words": 86,
       "chars": 440,
@@ -412,7 +451,7 @@
       ]
     },
     {
-      "title": "Údolí neklidu • Havran a jiné básně",
+      "title": "Údolí neklidu",
       "file": "havran_a_jine_basne_split_022.html",
       "words": 2,
       "chars": 13,
@@ -432,7 +471,7 @@
       ]
     },
     {
-      "title": "Sen ve snu • Havran a jiné básně",
+      "title": "Sen ve snu",
       "file": "havran_a_jine_basne_split_023.html",
       "words": 135,
       "chars": 666,
@@ -452,7 +491,7 @@
       ]
     },
     {
-      "title": "Ticho • Havran a jiné básně",
+      "title": "Ticho",
       "file": "havran_a_jine_basne_split_024.html",
       "words": 1,
       "chars": 5,
@@ -472,7 +511,7 @@
       ]
     },
     {
-      "title": "Červ dobyvatel • Havran a jiné básně",
+      "title": "Červ dobyvatel",
       "file": "havran_a_jine_basne_split_025.html",
       "words": 212,
       "chars": 1170,
@@ -492,7 +531,7 @@
       ]
     },
     {
-      "title": "Pro Annie • Havran a jiné básně",
+      "title": "Pro Annie",
       "file": "havran_a_jine_basne_split_026.html",
       "words": 370,
       "chars": 1783,
@@ -512,7 +551,7 @@
       ]
     },
     {
-      "title": "Svatební Ballada • Havran a jiné básně",
+      "title": "Svatební Ballada",
       "file": "havran_a_jine_basne_split_027.html",
       "words": 143,
       "chars": 714,
@@ -532,7 +571,7 @@
       ]
     },
     {
-      "title": "Israfel • Havran a jiné básně",
+      "title": "Israfel",
       "file": "havran_a_jine_basne_split_028.html",
       "words": 246,
       "chars": 1281,
@@ -552,7 +591,7 @@
       ]
     },
     {
-      "title": "F… • Havran a jiné básně",
+      "title": "F…",
       "file": "havran_a_jine_basne_split_029.html",
       "words": 74,
       "chars": 360,
@@ -572,7 +611,7 @@
       ]
     },
     {
-      "title": "Já nedbám… • Havran a jiné básně",
+      "title": "Já nedbám…",
       "file": "havran_a_jine_basne_split_030.html",
       "words": 2,
       "chars": 10,
@@ -592,7 +631,7 @@
       ]
     },
     {
-      "title": "M. L. S. • Havran a jiné básně",
+      "title": "M. L. S.",
       "file": "havran_a_jine_basne_split_031.html",
       "words": 3,
       "chars": 8,
@@ -612,7 +651,7 @@
       ]
     },
     {
-      "title": "Jezero • Havran a jiné básně",
+      "title": "Jezero",
       "file": "havran_a_jine_basne_split_032.html",
       "words": 140,
       "chars": 725,
@@ -632,7 +671,7 @@
       ]
     },
     {
-      "title": "Duchové mrtvých • Havran a jiné básně",
+      "title": "Duchové mrtvých",
       "file": "havran_a_jine_basne_split_033.html",
       "words": 155,
       "chars": 815,
@@ -652,7 +691,7 @@
       ]
     },
     {
-      "title": "Země vil • Havran a jiné básně",
+      "title": "Země vil",
       "file": "havran_a_jine_basne_split_034.html",
       "words": 2,
       "chars": 8,
@@ -672,7 +711,7 @@
       ]
     },
     {
-      "title": "M. L. S. • Havran a jiné básně",
+      "title": "M. L. S.",
       "file": "havran_a_jine_basne_split_035.html",
       "words": 3,
       "chars": 8,
@@ -692,11 +731,11 @@
       ]
     },
     {
-      "title": "Tiráž • Havran a jiné básně",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 160,
-      "chars": 1033,
-      "ideas": 17,
+      "words": 141,
+      "chars": 880,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "havran_a_jine_basne_split_035.html",
@@ -714,9 +753,9 @@
   ],
   "totals": {
     "all": {
-      "words": 6673,
-      "chars": 35203,
-      "ideas": 1291
+      "words": 6654,
+      "chars": 35050,
+      "ideas": 1288
     },
     "chapters": {
       "words": 6505,
