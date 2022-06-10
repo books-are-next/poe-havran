@@ -3,9 +3,13 @@ title: Spící
 contentType: prose
 ---
 
+<section>
+
 ### I.
 
-  
+</section>
+
+<section>
 
 Kdys o půlnoci, Červen byl,  
 pod lunou mystickou jsem snil  
@@ -28,7 +32,9 @@ spí Irena se svým Osudem.
 
 ### II.
 
-  
+</section>
+
+<section>
 
 Rci krásko jen, je sladký sen,  
 když okna tvá jsou do kořen?  
@@ -52,7 +58,9 @@ To slavné ticho odevšad!
 
 ### III.
 
-  
+</section>
+
+<section>
 
 Spí. Kéž můž’ její spánek mít,  
 jak trvalý je, hlubý klid.  
@@ -65,7 +73,9 @@ co v rubáších duchové chodí kol ní.
 
 ### IV.
 
-  
+</section>
+
+<section>
 
 Má láska spí! Kéž může mít  
 sen její věčný a hluboký klid,  
@@ -83,3 +93,5 @@ tu hrobku s branou zvučící vzdechem,
 již nerozdechne více echem,  
 jímž v bázni třásla se — dítě hříchu —  
 že mrtví to tam vzdychají v tichu.
+
+</section>

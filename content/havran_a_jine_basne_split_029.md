@@ -3,7 +3,7 @@ title: F…
 contentType: prose
 ---
 
-  
+<section>
 
 Má drahá! V středu smutků zlých,  
 jež oblétají cestu mou,  
@@ -13,7 +13,9 @@ to útěchou mi jedinou,
 že tvoří Ráj vnad líbezných  
 sny o tobě, jak duší jdou.
 
-  
+</section>
+
+<section>
 
 Vzpomínka na tě v duši mé  
 jest bájná výspa zářivá,  
@@ -22,3 +24,5 @@ kdes daleko a vře, se rve,
 co bouř tam zuří dunivá,  
 leč nebe stále v kráse své  
 na výspu tu se usmívá.
+
+</section>

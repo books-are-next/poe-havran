@@ -3,7 +3,7 @@ title: Já nedbám…
 contentType: prose
 ---
 
-  
+<section>
 
 Já nedbám, zemský los můj teď,  
 že málo země v sobě tají,  
@@ -13,3 +13,5 @@ já nelkám ani, sladké dítě zlaté,
 že blažší než já, kdo tu nešťasten,  
 lkám, o můj osud vy že starost máte,  
 jenž poutník jsem tu jen.
+
+</section>

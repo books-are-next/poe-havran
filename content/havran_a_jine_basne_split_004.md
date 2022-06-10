@@ -3,9 +3,13 @@ title: Lenora
 contentType: prose
 ---
 
+<section>
+
 ### I.
 
-  
+</section>
+
+<section>
 
 Ach, rozbita je zlatá číš! Odletěl pro vždy duch!  
 Jek znovu slyš! — Neb duše již bloudí, kde Styxu pruh!  
@@ -17,7 +21,9 @@ I nešpory pro tu, jež umřela, v tom, co květ jejího mládí plál,
 
 ### II.
 
-  
+</section>
+
+<section>
 
 Ji měli jste rádi, že bohata, vám protivna pro pyšný rod,  
 když slabým zdravím podťata umřela, bylo vám vhod!  
@@ -27,7 +33,9 @@ když v smrt jste vyštvali nevinnost, co květ její mladosti plál?
 
 ### III.
 
-  
+</section>
+
+<section>
 
 Peccavimus! však dosti již všech šílených záchvatů!  
 Ať k bohu stoupá, smrť zdeptat výš ta píseň Sabbatu!  
@@ -39,7 +47,9 @@ plá ještě žitím vlasů změť, však smrtí zrak jí zhas’.
 
 ### IV.
 
-  
+</section>
+
+<section>
 
 Pryč! Samý ples, hruď lehká dnes, lkát nechci v tísni mdlob!  
 Spíš andělu pomoci do nebes paianem zašlých dob!  
@@ -48,3 +58,5 @@ tím zvukem se nezleká, jenž letí do daleka od zatracené země!
 K přátelům k výšinám, od vrahů v hloubi tam duch uražen vzlét’ výše,  
 tož z hlubin Pekel vysoko až do Nebeské říše,  
 odsud, kde vzdech a ston, tam, kde je zlatý trón, v bok vládci Nebeské říše.
+
+</section>

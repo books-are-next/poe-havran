@@ -3,9 +3,13 @@ title: "Město v\_moři"
 contentType: prose
 ---
 
+<section>
+
 ### I.
 
-  
+</section>
+
+<section>
 
 Smrt kynula a její trůn se vznes  
 v podivném městě v samotě kdes,  
@@ -21,7 +25,9 @@ melancholické vody leží.
 
 ### II.
 
-  
+</section>
+
+<section>
 
 Svit s nebe svatého jediný  
 v té noci neskane hlubiny,  
@@ -44,7 +50,9 @@ Smrt obr zří na vše pod sebou.
 
 ### III.
 
-  
+</section>
+
+<section>
 
 Tu otevřené chrámy, hroby zející  
 s vod plochou na rovni jsou zářící,  
@@ -61,7 +69,9 @@ na moři s méně ohyzdným jasem.
 
 ### IV.
 
-  
+</section>
+
+<section>
 
 Však ejhle! dech proráží vzduch!  
 Co vlna, — náhle divný ruch  
@@ -75,3 +85,5 @@ když ve vzlyku jiného světa ztopí
 se hloub a hloub to město v chvat:  
 z tisíců trůnů svých peklo se vzchopí  
 mu úctu vzdat.
+
+</section>

@@ -3,7 +3,7 @@ title: Ticho
 contentType: prose
 ---
 
-  
+<section>
 
 Jsou věci vtělené, jsou vlastnosti,  
 jež v sobě ukrývají život dvojí,  
@@ -20,3 +20,5 @@ Však Osud chvatný kdyby v zlobě
 stín jeho náhle proti tobě hnal,  
 (bez jmena elf to z pustých míst a skal,  
 kam člověk nevkročí,) Bůh pomoz tobě!
+
+</section>

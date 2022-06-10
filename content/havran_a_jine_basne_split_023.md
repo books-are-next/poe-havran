@@ -3,9 +3,13 @@ title: Sen ve snu
 contentType: prose
 ---
 
+<section>
+
 ### I.
 
-  
+</section>
+
+<section>
 
 Na čelo vem to políbení  
 a přej, ve chvíli rozloučení  
@@ -21,7 +25,9 @@ se domníváme, v snu jest sen.
 
 ### II.
 
-  
+</section>
+
+<section>
 
 Já v středu hukotu jsem dlel,  
 kde břeh se pod přívalem chvěl,  
@@ -36,3 +42,5 @@ Což Bože, jedno jedině
 neurvat vln těch hlubině?  
 Vše, co tu zříme, neb zřít jen  
 se domníváme, jest v snu sen?
+
+</section>

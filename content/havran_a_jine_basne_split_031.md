@@ -3,7 +3,7 @@ title: "M\\.\_L\\.\_S\\."
 contentType: prose
 ---
 
-  
+<section>
 
 Nedávno ten, kdo píše tyto řádky,  
 v bláznivé pýše mohutnosti ducha  
@@ -33,3 +33,5 @@ kde s chvěním na pravo i levo zřím
 i podél celé dráhy, se všech stran  
 ve purpurových parách, v daleku  
 kde zrak se ztrácí — tebe jedině.
+
+</section>

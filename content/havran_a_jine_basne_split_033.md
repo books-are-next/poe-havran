@@ -3,14 +3,16 @@ title: Duchové mrtvých
 contentType: prose
 ---
 
-  
+<section>
 
 Až bude duch tvůj černým snem  
 pod šedým spáti kamenem,  
 z celého davu nevnikne žádný  
 v taj hrobu chladný.
 
-  
+</section>
+
+<section>
 
 Buď v samotě té mlčenliv,  
 to opuštěnost není,  
@@ -19,7 +21,9 @@ dokud byls živ, budou v tvém snění,
 kol tebe budou, vůle jich  
 stín hodí na tě: Budiž tich!
 
-  
+</section>
+
+<section>
 
 Noc, byť i jasná, svraští obočí  
 a hvězdy se svých trůnů seskočí,  
@@ -34,7 +38,9 @@ teď visiony, jichž se nezbavíš,
 tvou duši jejich neopustí davy,  
 jak nevymizí kapky rosy z trávy.
 
-  
+</section>
+
+<section>
 
 Dech boha — vánek — nyní ztich  
 a mlha táhne po vrších  
@@ -42,3 +48,5 @@ jak stín, jak stín — jen nestržen,
 to znamení jest — symbol jen,  
 jak visíc drží se na to stromech,  
 to teprve taj tajů všech!
+
+</section>

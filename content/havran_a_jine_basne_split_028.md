@@ -3,7 +3,7 @@ title: Israfel
 contentType: prose
 ---
 
-  
+<section>
 
 Dlí na Nebi duch archanděl  
 „jest lyrou srdce jeho svaz,“  
@@ -13,7 +13,9 @@ jak anděl Israfel,
 ustaly v hymnách svých, pokud jim zněl  
 kouzelný jeho hlas.
 
-  
+</section>
+
+<section>
 
 Luna se zachvěla  
 v nejvyšším vzletu,  
@@ -24,7 +26,9 @@ s prudkými Plejadami v spěch
 (je sedm všech),  
 zastavil v Nebi běh.
 
-  
+</section>
+
+<section>
 
 I pravili (hvězd těch sbor  
 i každý, kdo naslouchal),  
@@ -34,7 +38,9 @@ s kterou on sedí a zpívá dál,
 ten divý, živý čár  
 z těch zvláštních strun že vál.
 
-  
+</section>
+
+<section>
 
 Však chodil oblohou ten duch,  
 kde hlubé dumy jsou povinností,  
@@ -43,7 +49,9 @@ kde Hurisek oči
 tu všecku krásu hostí,  
 za níž se k hvězdám zor točí.
 
-  
+</section>
+
+<section>
 
 Máš pravdu, anděle,  
 že zpěv ti na posměch  
@@ -52,7 +60,9 @@ Měj laur vždy na čele!
 Ty nejlepší, že nejmoudřejší z bardů všech,  
 žij dlouho, vesele!
 
-  
+</section>
+
+<section>
 
 Nebeské nadšení  
 s žhoucími rhythmy, jež tvá budí pěst,  
@@ -60,7 +70,9 @@ tvůj ples i láska, hoře, šílení
 s tou žhoucí lyrou v shodě jest.  
 Můž’ právem ztichnout zástup hvězd.
 
-  
+</section>
+
+<section>
 
 Tvým Nebe; naším tady však  
 je radostí a stálých trudů svět,  
@@ -68,7 +80,9 @@ co zveme květ — je pouze květ…
 Stín tvého úplného štěstí v zrak  
 nám plným sluncem hned.
 
-  
+</section>
+
+<section>
 
 Kéž tam bych dlel,  
 kde Israfel,  
@@ -77,3 +91,5 @@ s tak divou rozkoší by nezapěl
 smrtelnou píseň as,  
 však nad tento zpěv by divočejší zněl  
 mé lyry v oblohu hlas.
+
+</section>

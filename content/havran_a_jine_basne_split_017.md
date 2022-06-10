@@ -3,7 +3,7 @@ title: Ostrovu Zante
 contentType: prose
 ---
 
-  
+<section>
 
 Ty krásný ostrove, z nejkrašší květiny  
 jenž všech jmen nejluznější béřeš jmeno,  
@@ -19,3 +19,5 @@ nic na tě vzpomínka! Mně klet je pro vždycky
 tvůj břeh, jenž vykládán je kvítím všady.  
 Ostrove hyacintů, ó nachové Zante!  
 Isola d’oro! Fior di Levante!
+
+</section>

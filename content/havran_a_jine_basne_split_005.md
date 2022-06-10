@@ -3,7 +3,7 @@ title: Hymnus
 contentType: prose
 ---
 
-  
+<section>
 
 V šer — úsvit — ve polední čas —  
 Marie! zpěv můj slyšela’s!  
@@ -17,3 +17,5 @@ co Osudu teď kalí zlost
 mou Minulost i Přítomnost,  
 dny Příští nechť se zaskvějí  
 po Tobě, po Tvých nadějí!
+
+</section>

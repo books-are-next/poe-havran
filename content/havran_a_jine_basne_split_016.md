@@ -3,7 +3,7 @@ title: Očarovaný palác
 contentType: prose
 ---
 
-  
+<section>
 
 V nejzelenějším z našich údolí,  
 kde bydlí dobří andělé,  
@@ -14,7 +14,9 @@ až do oblak!
 Nad stavbou křídla nevztáh archanděl,  
 jež půl by krásná tak.
 
-  
+</section>
+
+<section>
 
 Prapory zlaté, žluté, přeslavné  
 tam plály a vlály na střechách  
@@ -25,7 +27,9 @@ tak slavný den,
 po hradbách třpytných a věnčených  
 táh vůní okřídlen.
 
-  
+</section>
+
+<section>
 
 Poutníci v šťastném údolu  
 jasnými okny zřeli tam a sem  
@@ -36,7 +40,9 @@ jich průvod kolem trůnu táh
 kam v lesku hodném slávy, v zář a nach,  
 pán této říše se posadil.
 
-  
+</section>
+
+<section>
 
 Rubíny, perletí se brána skvěla  
 v paláci nádherném  
@@ -47,7 +53,9 @@ pět neustále
 tož hlasem, který každou krásou předčí  
 moudrost a ducha svého krále.
 
-  
+</section>
+
+<section>
 
 Však v hávu zármutku příhody zlé  
 obléhat začly králův pyšný hrad;  
@@ -58,7 +66,9 @@ jež kvetla, nach a jas
 je zašlé vzpomínky jen truchlá zpráva  
 na starý, zašlý čas.
 
-  
+</section>
+
+<section>
 
 Poutníci, již jdou tím údolím teď,  
 rudými okny vidí jen  
@@ -68,3 +78,5 @@ zatím jak příšerná bystřeň dravá
 vybledlou branou co divá  
 valí se stále hnusná sem vřava,  
 jež chechtá se — však neusmívá.
+
+</section>
