@@ -3,7 +3,7 @@ title: Heleně
 contentType: prose
 ---
 
-  
+<section>
 
 Já jednou zřel tě — jednou — před lety:  
 let kolik tomu, nevím, málo jen.  
@@ -22,7 +22,9 @@ zpět dýchaly, na tváře růží padal,
 jež smály se a mřely v sadě zpitém  
 tou sladkou tvého zjevu poesií.
 
-  
+</section>
+
+<section>
 
 Na fialkovém záhoně já bílou  
 jsem viděl Tebe v pololeže, měsíc  
@@ -39,7 +41,9 @@ jen ty a já ne! Stanul jsem a patřil
 a v mžiku tomto zmizelo mi všecko,  
 (ó pomni jen, ten sad byl začarován!)
 
-  
+</section>
+
+<section>
 
 Měsíce zhasl svit již perlový,  
 omšené lávky, stezky točité  
@@ -59,7 +63,9 @@ A jaké jasné, tiché moře pýchy!
 Co smělé ctižádosti! Jaká hloubka  
 a jaká nezměrná moc milování!
 
-  
+</section>
+
+<section>
 
 Teď zhasla zraku drahá Diana  
 na západ v loži mračen sytých bouří:  
@@ -80,3 +86,5 @@ jež vzývám v smutných, mlčenlivých bděních;
 co v plném lesku poledním je vidím,  
 je stále vidím, jak se sladce jiskří  
 dvě Venuše, jež nezhasíná slunce!
+
+</section>

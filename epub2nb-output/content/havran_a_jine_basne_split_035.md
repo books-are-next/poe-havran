@@ -3,7 +3,7 @@ title: "M\\.\_L\\.\_S\\."
 contentType: prose
 ---
 
-  
+<section>
 
 Z všech, již tvou přítomnost jak jitro zdraví —  
 z všech, tvoje vzdálenost kterým je nocí —  
@@ -23,3 +23,5 @@ na nejvěrnějšího — jenž nejvíc vzdává
 se v službu Tvou, jenž psal ty chabé řádky —  
 a pomni, když je psal, že chvěl se při tom,  
 že jeho duch s andělským duchem v styku.
+
+</section>

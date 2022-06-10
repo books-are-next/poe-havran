@@ -3,7 +3,7 @@ title: Havran
 contentType: prose
 ---
 
-  
+<section>
 
 V půlnoci kdys v soumrak čirý  
 chorý bděl jsem sám a sirý,  
@@ -17,7 +17,9 @@ na mé dveře — a zas nic.
 „klepá na dveře, víc nic —  
        pouze to a pranic víc.“
 
-  
+</section>
+
+<section>
 
 Jasně pamět má mi praví:  
 Prosinec byl mrazný, tmavý,  
@@ -31,7 +33,9 @@ zářnou děvu ‚Leonora‘,
 andělů zve na tisíc —  
       Zde již nemá jména víc.
 
-  
+</section>
+
+<section>
 
 Purpurné se clony hnuly,  
 hedvábem svým zavzdychnuly,  
@@ -45,7 +49,9 @@ návštěva…“ — si předříkávám —
 „ždá vchod u mých okenic, —  
       to je to – a pranic víc.“
 
-  
+</section>
+
+<section>
 
 Nabyla má duše síly,  
 neváhal jsem ani chvíli:  
@@ -59,7 +65,9 @@ nebyl jist jsem, že vás slyším —“
 Otevru své dveře — nic —  
       Venku tma a pranic víc.
 
-  
+</section>
+
+<section>
 
 Dlouho do tmy patřím snivý,  
 stojím, duše má se diví,  
@@ -73,7 +81,9 @@ Já je šeptal: „Leonoro!“
 echem znělo zmírajíc —  
       Pouze to a pranic víc.
 
-  
+</section>
+
+<section>
 
 Nazpět v komnatu se vracím,  
 žhavou duší v sny se ztrácím,  
@@ -87,7 +97,9 @@ Ticho, srdce! Vyšetřit chci
 taj ten u svých okenic. —  
       To je vítr a nic víc.“
 
-  
+</section>
+
+<section>
 
 Otevru své okno rázem,  
 vířivým tu letem na zem  
@@ -101,7 +113,9 @@ Nad Pallady vletěl sochu
 nad dveřmi, měl vážnou líc —  
       Vzletěl, used, a nic víc.
 
-  
+</section>
+
+<section>
 
 Ebenový pták ten v zjevu  
 obřadném tak, v přísném hněvu  
@@ -115,7 +129,9 @@ rci své panské jméno v Pekle
 břehy Pluta těkajíc!“  
       Na to Havran: „Nikdy víc!“
 
-  
+</section>
+
+<section>
 
 S žasem na toho zřím ptáka,  
 nemehlo, jak jasně kdáká,  
@@ -129,7 +145,9 @@ ptáka nebo zvíře, které
 na sochu si sedajíc  
       zvalo by se: ‚Nikdy víc!‘
 
-  
+</section>
+
+<section>
 
 Pták na klidné soše seděl,  
 pouze jedno slovo věděl,  
@@ -143,7 +161,9 @@ i ten zítra opustí mne
 Nadějí jak na tisíc.“  
       A pták pravil: „Nikdy víc!“
 
-  
+</section>
+
+<section>
 
 Vhodnou řečí tou když zrušil  
 kolem ticho, já jsem tušil:  
@@ -157,7 +177,9 @@ pohřbila svou všecku Naděj,
 v truchlý refrén zoufajíc,  
       v refrén: „Nikdy, nikdy víc!“
 
-  
+</section>
+
+<section>
 
 Posud Havran ve svém zjevu  
 žal můj měnil do úsměvu,  
@@ -171,7 +193,9 @@ co chce příšerná a šerá
 šelma ta zlo zvěstujíc,  
       krákající: ‚Nikdy víc!‘“
 
-  
+</section>
+
+<section>
 
 V domněnky jsem upad zcela,  
 duše má se zamlčela,  
@@ -185,7 +209,9 @@ fialový samet křesla
 osvítila šlehajíc,  
       kam nesedne Ona víc!
 
-  
+</section>
+
+<section>
 
 Ve vzduchu se vůně chvěla,  
 jak by z kaditelnic spěla  
@@ -199,7 +225,9 @@ na Lenoru zapomněla
 sladký mok ten lokajíc.“  
       Na to Havran: „Nikdy víc!“
 
-  
+</section>
+
+<section>
 
 „Proroku!“ dím, „čárných zraků! —  
 Věštče, ďáble nebo ptáku! —  
@@ -213,7 +241,9 @@ Jest v Gilead balzám těchy? —
 Rci — jen to rci a víc nic!“  
       Načež Havran: „Nikdy víc!“
 
-  
+</section>
+
+<section>
 
 „Proroku!“ dím, „čárných zraků! —  
 Věštče, ďáble nebo ptáku!  
@@ -227,7 +257,9 @@ Zářící tu krásnou děvu
 zdali uzřím lící v líc?“  
       Na to Havran: „Nikdy víc!“
 
-  
+</section>
+
+<section>
 
 „Vari! Slovem tímto z prahu,  
 ptáku, ďáble, starý vrahu,  
@@ -241,7 +273,9 @@ Přestaň rvát mi srdce, šelmo,
 kliď se z dveří prchajíc!“  
       Načež Havran: „Nikdy víc!“
 
-  
+</section>
+
+<section>
 
 A tak Havran neslét, sedí,  
 stále sedí, na mne hledí,  
@@ -254,3 +288,5 @@ jeho stín kol vrhajíc,
 a má duše z toho stínu  
 nevzchopí se zoufajíc,  
       nevzchopí se — nikdy víc!
+
+</section>

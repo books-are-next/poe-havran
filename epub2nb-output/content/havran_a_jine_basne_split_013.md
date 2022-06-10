@@ -3,7 +3,7 @@ title: Ulalum
 contentType: prose
 ---
 
-  
+<section>
 
 Kol nebe bylo smutné, popelavé;  
 a listí scvrklé a žluté v šeru —  
@@ -15,7 +15,9 @@ v té mhavé končině blíž Weyru,
 blíž vlhké, Auberské bažiny tmavé,  
 kde straší Ghulové ve hvozdech Weyru.
 
-  
+</section>
+
+<section>
 
 Tam titanská alej kde se tměla,  
 v cypřiších bloudil jsem s duší svojí,  
@@ -28,7 +30,9 @@ na pólu nejzazším jež stojí,
 s jekem se valí s hory, jež ztmělá  
 v mhách pólu na severu stojí.
 
-  
+</section>
+
+<section>
 
 Hovory naše byly přemítavé,  
 myšlenky sklané a žluté v tom šeru —  
@@ -41,7 +45,9 @@ ač cestovali jsme jednou v tom směru,
 my nevzpomněli té Auberské bažiny tmavé,  
 kde straší Ghulové ve hvozdech Weyru.
 
-  
+</section>
+
+<section>
 
 A nyní, kdy noc juž měla své stáří,  
 na orloji hvězd když jitro plálo,  
@@ -53,7 +59,9 @@ dvojím se rohem světlo to smálo,
 Astarty démantný srp to tam září,  
 určitě dvojím rohem to plálo.
 
-  
+</section>
+
+<section>
 
 Já děl: Diany teplejší jest více;  
 ona se valí etherem vzdechů,  
@@ -68,7 +76,9 @@ svítíc svým zrakem v hvozdě a mechu,
 šla s Láskou v očích doupaty Lvice,  
 zářící bleskla k nám v hvozdě a mechu.
 
-  
+</section>
+
+<section>
 
 Však zvedla Psyche prst svůj do výše  
 řkouc: Škoda, nevěřím hvězdy té plání,  
@@ -81,7 +91,9 @@ chvěla se úzkostí, nechajíc tiše
 v prach padat peruť svou v nářku a lkání,  
 smutně ji vléci prašnou tou plání.
 
-  
+</section>
+
+<section>
 
 Odvětím: Toto pouhé je snění,  
 pojďme jen chvějným světlem tím dále!  
@@ -95,7 +107,9 @@ můžem tím světlem být ujištění,
 že musí nás vésti dobře a dále,  
 neb nocí jdouc k Nebi se chví, zvedá stále!
 
-  
+</section>
+
+<section>
 
 Ztišil jsem Psychu, objal ji vřele,  
 zburcoval jsem ji ze smutných dum,  
@@ -108,7 +122,9 @@ co psáno tam nese ten mrtvých dům?
 A řekla: Ulalum! Ulalum!  
 Toť hrobka tvé mrtvé jest Ulalum!
 
-  
+</section>
+
+<section>
 
 Hned stalo se mé srdce popelavé,  
 jak listí scvrklé a žluté v šeru,  
@@ -123,3 +139,5 @@ Poznávám Auberské pleso teď tmavé,
 ty planiny mhavé v okolí Weyru, —  
 Auberské bažiny poznávám tmavé  
 kde straší Ghulové ve hvozdech Weyru.“
+
+</section>

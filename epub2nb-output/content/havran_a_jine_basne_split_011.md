@@ -3,7 +3,7 @@ title: Annabel-Lee
 contentType: prose
 ---
 
-  
+<section>
 
 I žila kdys, je tomu roků juž řad,  
       u moře v království  
@@ -12,7 +12,9 @@ mladičká dívka, již mohli jste znát
 ta s myšlenkou žila jen napořád,  
 že má mne ráda, že rád mám já ji.
 
-  
+</section>
+
+<section>
 
 Byl dítě jsem, ona dítě též  
       v tom u moře království;  
@@ -21,7 +23,9 @@ víc naše láska byla než láska
 že křídlatí serafi v Nebesích  
 tu lásku nepřáli mně ani jí.
 
-  
+</section>
+
+<section>
 
 A proto se stalo a dávno to juž  
       v tom už moře království,  
@@ -32,7 +36,9 @@ a hned mně uloupili ji,
 a pak ji zavřeli do hrobky tam  
       u moře v království.
 
-  
+</section>
+
+<section>
 
 Ni půl tak šťastni nejsou andělé,  
       tož nepřáli mně ani jí,  
@@ -41,7 +47,9 @@ a to byla příčina (již každý zná
 že z mraku šleh’ vítr v půnoci,  
 že zmrazil, v prach srazil mou Annabel Lee.
 
-  
+</section>
+
+<section>
 
 Však lásky naší byl silnější vzdor,  
       než láska starších než my,  
@@ -51,7 +59,9 @@ a věru, že v Nebesích andělů sbor,
 mé bytí a žití, mou duši od duše  
       té krásné Annabel Lee.
 
-  
+</section>
+
+<section>
 
 Svit luny nevzplá kdes, by sen mi nepřines  
       i krásné Annabel Lee,  
@@ -61,3 +71,5 @@ k své nevěstě tam noc každou uléhám,
 k té drahé, k té milé, ze všech již mám,  
       do hrobky na pomoří,  
       v hrob, tam kde moře hřmí.
+
+</section>

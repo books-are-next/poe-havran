@@ -3,7 +3,7 @@ title: Kolosseum
 contentType: prose
 ---
 
-  
+<section>
 
 Ó type staré Romy! Bohatá  
 ty schráno vznešeného rozjímání,  
@@ -15,7 +15,9 @@ zde klečím pokorný a jiný člověk
 v tvých stínech lokaje rád v duši svou  
 tvou velkost, slávu, chmurný majestát!
 
-  
+</section>
+
+<section>
 
 Ó Časy! Ohromnosti! Vzpomínky!  
 Ó Mlčení! Ó Spousto! Tmavá noci!  
@@ -25,7 +27,9 @@ kdys v Gethsemanské učil zahradě!
 Ó větší toho, Chaldej blouznivý  
 jež hltavě pil z ticha klidných hvězd!
 
-  
+</section>
+
+<section>
 
 Zde, bohatýr kde padl — padá sloup!  
 Zde, divadel kde orel v zlatě plál,  
@@ -37,7 +41,9 @@ jak přelud v zdiva maltu prchajíc
 mdle osvícena srpem měsíčným  
 se smýká hbitě tichá ještěrka!
 
-  
+</section>
+
+<section>
 
 Stůj přece! — Břečtanem ty kryté zdi —  
 ty řimsy shnilé — sloupy zčernalé —  
@@ -47,7 +53,9 @@ to šedé kamení, zda to je všecko,
 co z nádhery té, slávy, velkosti  
 hlod Hór zanechal Osudu a mně?
 
-  
+</section>
+
+<section>
 
 „Ne, všecko!“ Ohlas odpovídá, „ne!“ —  
 „Hlas, věští zvuk se dere stále z nás  
@@ -63,3 +71,5 @@ ne všecko tajemství, v nás které spí,
 ne všecky upomínky, ozdobou  
 jež visí na nás, skrývají nás v šat,  
 jenž nad háv slávy lépe halí nás.“
+
+</section>

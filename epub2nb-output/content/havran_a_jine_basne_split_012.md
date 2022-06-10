@@ -3,7 +3,7 @@ title: Eulalie
 contentType: prose
 ---
 
-  
+<section>
 
 Já sám jsem dlel,  
 kde vzdech a žel;  
@@ -13,7 +13,9 @@ se cudnou nevěstou mou stala,
 než zlatovlasá, mladá Eulalie  
 se usmívavou nevěstou mou stala.
 
-  
+</section>
+
+<section>
 
 Míň lesklý jest  
 lesk půlnočních hvězd  
@@ -26,7 +28,9 @@ ta nejvíc nevšímána,
 než kadeř jasnozraké mojí Eulalie  
 nejmenší, nejvíc zanedbána.
 
-  
+</section>
+
+<section>
 
 Pochyba! Žal! —  
 Ode mne dál,  
@@ -38,3 +42,5 @@ neb k ní obrací drahá Eulalie
 svůj mateřský, snivý zrak,  
 neb k ní obrací mladá Eulalie  
 svůj fialkový zrak.
+
+</section>

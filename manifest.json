@@ -6,8 +6,8 @@
   "author": "Edgar Allan Poe",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "poe-havran-a-jine-basne-9ba350a",
-  "revision": "9ba350a",
+  "identifier": "poe-havran-a-jine-basne-1cf906e",
+  "revision": "1cf906e",
   "readingOrder": [
     "promo.html",
     "havran_a_jine_basne_split_002.html",
@@ -47,8 +47,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 15:12:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652368357055
+    "date": "Fri Jun 10 2022 17:54:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883643439
   },
   "documents": [
     {
@@ -126,9 +126,9 @@
     {
       "title": "Hymnus",
       "file": "havran_a_jine_basne_split_005.html",
-      "words": 1,
-      "chars": 6,
-      "ideas": 1,
+      "words": 72,
+      "chars": 348,
+      "ideas": 13,
       "role": "chapter",
       "order": 4,
       "prev": "havran_a_jine_basne_split_004.html",
@@ -206,9 +206,9 @@
     {
       "title": "Své matce",
       "file": "havran_a_jine_basne_split_009.html",
-      "words": 2,
-      "chars": 9,
-      "ideas": 1,
+      "words": 100,
+      "chars": 514,
+      "ideas": 15,
       "role": "chapter",
       "order": 8,
       "prev": "havran_a_jine_basne_split_008.html",
@@ -306,9 +306,9 @@
     {
       "title": "F—S. S. O—D.",
       "file": "havran_a_jine_basne_split_014.html",
-      "words": 3,
-      "chars": 12,
-      "ideas": 1,
+      "words": 44,
+      "chars": 238,
+      "ideas": 9,
       "role": "chapter",
       "order": 13,
       "prev": "havran_a_jine_basne_split_013.html",
@@ -366,9 +366,9 @@
     {
       "title": "Ostrovu Zante",
       "file": "havran_a_jine_basne_split_017.html",
-      "words": 2,
-      "chars": 13,
-      "ideas": 1,
+      "words": 97,
+      "chars": 556,
+      "ideas": 15,
       "role": "chapter",
       "order": 16,
       "prev": "havran_a_jine_basne_split_016.html",
@@ -466,9 +466,9 @@
     {
       "title": "Údolí neklidu",
       "file": "havran_a_jine_basne_split_022.html",
-      "words": 2,
-      "chars": 13,
-      "ideas": 1,
+      "words": 143,
+      "chars": 775,
+      "ideas": 28,
       "role": "chapter",
       "order": 21,
       "prev": "havran_a_jine_basne_split_021.html",
@@ -506,9 +506,9 @@
     {
       "title": "Ticho",
       "file": "havran_a_jine_basne_split_024.html",
-      "words": 1,
-      "chars": 5,
-      "ideas": 1,
+      "words": 99,
+      "chars": 526,
+      "ideas": 16,
       "role": "chapter",
       "order": 23,
       "prev": "havran_a_jine_basne_split_023.html",
@@ -626,9 +626,9 @@
     {
       "title": "Já nedbám…",
       "file": "havran_a_jine_basne_split_030.html",
-      "words": 2,
-      "chars": 10,
-      "ideas": 1,
+      "words": 48,
+      "chars": 239,
+      "ideas": 9,
       "role": "chapter",
       "order": 29,
       "prev": "havran_a_jine_basne_split_029.html",
@@ -646,9 +646,9 @@
     {
       "title": "M. L. S.",
       "file": "havran_a_jine_basne_split_031.html",
-      "words": 3,
-      "chars": 8,
-      "ideas": 1,
+      "words": 176,
+      "chars": 939,
+      "ideas": 29,
       "role": "chapter",
       "order": 30,
       "prev": "havran_a_jine_basne_split_030.html",
@@ -706,9 +706,9 @@
     {
       "title": "Země vil",
       "file": "havran_a_jine_basne_split_034.html",
-      "words": 2,
-      "chars": 8,
-      "ideas": 1,
+      "words": 202,
+      "chars": 1076,
+      "ideas": 47,
       "role": "chapter",
       "order": 33,
       "prev": "havran_a_jine_basne_split_033.html",
@@ -726,9 +726,9 @@
     {
       "title": "M. L. S.",
       "file": "havran_a_jine_basne_split_035.html",
-      "words": 3,
-      "chars": 8,
-      "ideas": 1,
+      "words": 143,
+      "chars": 740,
+      "ideas": 19,
       "role": "chapter",
       "order": 34,
       "prev": "havran_a_jine_basne_split_034.html",
@@ -746,9 +746,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 141,
-      "chars": 880,
-      "ideas": 14,
+      "words": 71,
+      "chars": 478,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "havran_a_jine_basne_split_035.html",
@@ -766,14 +766,14 @@
   ],
   "totals": {
     "all": {
-      "words": 6654,
-      "chars": 35050,
-      "ideas": 1288
+      "words": 7687,
+      "chars": 40507,
+      "ideas": 1471
     },
     "chapters": {
-      "words": 6505,
-      "chars": 34133,
-      "ideas": 1271
+      "words": 7608,
+      "chars": 39992,
+      "ideas": 1461
     }
   }
 }

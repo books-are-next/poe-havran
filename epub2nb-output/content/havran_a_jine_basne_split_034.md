@@ -3,7 +3,7 @@ title: Země vil
 contentType: prose
 ---
 
-  
+<section>
 
 Mhavé doly — řeky kalné —  
 lesy jako mraky valné,  
@@ -51,3 +51,5 @@ k obloze když popílí
 a zas k zemi v jeden spěch,  
 přinesly nám pestré vzory  
 chvějících se na křídlech!
+
+</section>

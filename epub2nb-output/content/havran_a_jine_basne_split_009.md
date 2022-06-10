@@ -3,7 +3,7 @@ title: Své matce
 contentType: prose
 ---
 
-  
+<section>
 
 Že cítím, andělská druž v Nebes výši,  
 když druhu druh svá přání šeptá sladká,  
@@ -19,3 +19,5 @@ té, kterou duše má tak měla ráda.
 Mně dražší nad onu, již znal jsem kdys,  
 tím nekonečnem, jímž má žena byla  
 nad život vlastní duše duši milá.
+
+</section>

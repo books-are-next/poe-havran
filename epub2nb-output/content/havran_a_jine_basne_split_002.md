@@ -3,6 +3,8 @@ title: Z předmluvy básníkovy
 contentType: prose
 ---
 
+<section>
+
 Pro mne nebyla poesie cílem, jejž si kdo určuje, nýbrž vášní, a s vášněmi třeba zacházeti s největší šetrností, nelze jich vzněcovati svévolně v naději nepatrných výhod neb ještě nepatrnějšího úspěchu u obecenstva.
 
 _E. A. Poe_
@@ -16,3 +18,5 @@ _Charles Baudelaire_
 _J. V. Sládkovi_
 
 _v oddanosti bratrské, v pamět společných snah a stejné práce_
+
+</section>

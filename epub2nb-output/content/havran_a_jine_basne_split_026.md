@@ -3,7 +3,7 @@ title: Pro Annie
 contentType: prose
 ---
 
-  
+<section>
 
 Dík nebi! Zlé krise  
 minula tíž,  
@@ -12,7 +12,9 @@ je skončena již
 a zimnice život  
 je zmožena již.
 
-  
+</section>
+
+<section>
 
 Cítím jen s žalem,  
 že síla ta tam,  
@@ -21,7 +23,9 @@ jak ležím tu sám;
 však což! pořád líp mi,  
 cítím to sám.
 
-  
+</section>
+
+<section>
 
 Tak tiše ležím  
 teď v loži svém,  
@@ -30,7 +34,9 @@ kdo zří mne, řekne,
 zachví se, pomyslí,  
 že mrtvý jsem.
 
-  
+</section>
+
+<section>
 
 Vše lkání i štkání  
 vzdech, stonů zvuk  
@@ -39,7 +45,9 @@ i děsný ten tluk,
 ten hrozný v mém srdci  
 ten strašlivý tluk.
 
-  
+</section>
+
+<section>
 
 Ošklivost — mdloba —  
 pád údů všech,  
@@ -48,7 +56,9 @@ jenž i můj mozek
 ustály s „žití“ zimnicí,  
 dech jejíž mozek mi zžeh.
 
-  
+</section>
+
+<section>
 
 Z muk všech ta nejhorší  
 prchla též v dál —  
@@ -59,7 +69,9 @@ Vášní vře kal;
 pil jsem a ztišil se  
 mé žízně pal.
 
-  
+</section>
+
+<section>
 
 Vody jsem napil se,  
 jež stéká tiše  
@@ -68,7 +80,9 @@ z chladivé skrýše —
 dost blízko pod zemí  
 z mělké jen skrýše.
 
-  
+</section>
+
+<section>
 
 Ach, ovšem blázen jen  
 říci teď může,  
@@ -79,7 +93,9 @@ jiného lůže,
 kdo chce spát, musí mít  
 právě to lůže.
 
-  
+</section>
+
+<section>
 
 Tantalsky zmítán dřív  
 zde tich můj duch,  
@@ -88,7 +104,9 @@ touhy mé vzruch —
 po myrtách, po růžích  
 starý ten vzruch.
 
-  
+</section>
+
+<section>
 
 Sní nyní, v klidu tak  
 co tiše leží,  
@@ -99,7 +117,9 @@ s maceškou svěží,
 routou a maceškou  
 cudnou a svěží.
 
-  
+</section>
+
+<section>
 
 Leží tak blaženě,  
 ve snách se houpá  
@@ -108,7 +128,9 @@ kráse se koupá —
 v kšticích mé Annie se  
 jak v lázni koupá.
 
-  
+</section>
+
+<section>
 
 Něžně mne zlíbala,  
 hladila pak,  
@@ -117,7 +139,9 @@ v sen zavřel zrak, —
 v ráji těch ňader v sen  
 zavřel svůj zrak.
 
-  
+</section>
+
+<section>
 
 Teple mne přikryla,  
 když tma kol již,  
@@ -126,7 +150,9 @@ by sňali mou tíž —
 i královnu andělů,  
 by vzala mou tíž.
 
-  
+</section>
+
+<section>
 
 (Jist její láskou) tich  
 spím v loži svém,  
@@ -139,7 +165,9 @@ mrtvý že jsem,
 v bázni se zachvíte,  
 mrtvý že jsem!
 
-  
+</section>
+
+<section>
 
 Však srdce mé zářnější  
 jasnější plá,  
@@ -149,3 +177,5 @@ neb světlem lásky mé
 pro Annie plá,  
 myšlenkou na oči  
 své Annie plá.
+
+</section>

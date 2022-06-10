@@ -3,9 +3,13 @@ title: Zem snů
 contentType: prose
 ---
 
+<section>
+
 ### I.
 
-  
+</section>
+
+<section>
 
 Po cestě pusté a setmělé  
 kde chodí zlí jen andělé,  
@@ -18,7 +22,9 @@ kde Prostoru je hráz.
 
 ### II.
 
-  
+</section>
+
+<section>
 
 Tam bezdná údolí, sluje a tesy  
 tam bezmezné řeky a titanské lesy,  
@@ -35,7 +41,9 @@ jen lehnuvše na ně spí svůj sen.
 
 ### III.
 
-  
+</section>
+
+<section>
 
 U jezer, jež své šíří tak vody,  
 ty dalné, mrtvé, šeré brody —  
@@ -58,7 +66,9 @@ jež Nebi i Zemi připadly v agonii.
 
 ### IV.
 
-  
+</section>
+
+<section>
 
 Pro ducha s bolů tisíci  
 kraj tichý to jest, blažící,  
@@ -75,7 +85,9 @@ sem přijdouc kraj ten v černém skle.
 
 ### V.
 
-  
+</section>
+
+<section>
 
 Po cestě pusté a setmělé  
 kde chodí zlí jen andělé,  
@@ -83,3 +95,5 @@ kde jeden Idol zvaný Noc
 na černém trůnu třímá moc,  
 z té mhavé, poslední Thule jsem  
 se nedávno vrátil v tuto zem.
+
+</section>
