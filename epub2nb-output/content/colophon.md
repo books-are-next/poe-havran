@@ -2,13 +2,17 @@
 title: Tiráž
 ---
 
-<section>  
 **Edgar Allan Poe**  
 **Havran a jiné básně**  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
+
+***
+
+Znění tohoto textu vychází z díla Havran a jiné básně tak, jak bylo vydáno nakladatelstvím Bursík & Kohout v roce 1891 (POE, Edgar Allan. _Havran a jiné básně_. Přel. Jaroslav VRCHLICKÝ. Praha: Bursík & Kohout, 1891. 70 s.).
+
+Elektronický text byl získán z otevřeného projektu [Wikizdroje](http://cs.wikipedia.org/wiki/Wikizdroje).
 
 ***
 
@@ -22,10 +26,6 @@ Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v P
 
 ***
 
-</section>
-
-<section>
-
 Citační záznam této e-knihy:
 
-POE, Edgar Allan. _Havran a jiné básně_ \[online\]. Přel. Jaroslav VRCHLICKÝ.  Praha: Městská knihovna v Praze, 2013 \[cit. 11. 6. 2022]. Dostupné z: <next-book-url>
+POE, Edgar Allan. _Havran a jiné básně_ \[online\]. Přel. Jaroslav VRCHLICKÝ.  Praha: Městská knihovna v Praze, 2013 \[cit. 13. 6. 2022]. Dostupné z: <next-book-url>

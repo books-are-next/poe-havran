@@ -80,10 +80,10 @@ blázni hádají se, chtíce hluchý překřičeti plam
           zoufalství!  
 Kterak ječí v stále větší vřavě dál,  
 jakou hrůzu v ňadra vzduchu rozchvěného svál,  
-               slyš, jak zní!  
+            slyš, jak zní!  
           Sluch však plně rozeznává  
-               v břitkém lkání,  
-               naříkání,  
+            v břitkém lkání,  
+            naříkání,  
           nebezpeč jak mizí, vstává.  
           Sluch ten rozeznává tón  
           v jejich jeku,  
