@@ -1,6 +1,6 @@
 ---
 title: Sloky Heleně
-contentType: prose
+contentType: poetry
 ---
 
 <section>

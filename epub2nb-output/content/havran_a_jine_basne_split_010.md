@@ -1,6 +1,6 @@
 ---
 title: Zvony
-contentType: prose
+contentType: poetry
 ---
 
 <section>

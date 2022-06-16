@@ -1,6 +1,6 @@
 ---
 title: Kolosseum
-contentType: prose
+contentType: poetry
 ---
 
 <section>

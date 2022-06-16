@@ -1,6 +1,6 @@
 ---
 title: Spící
-contentType: prose
+contentType: poetry
 ---
 
 <section>

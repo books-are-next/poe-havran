@@ -1,6 +1,6 @@
 ---
 title: Duchové mrtvých
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: "M\\.\_L\\.\_S\\."
-contentType: prose
+contentType: poetry
 ---
 
 <section>

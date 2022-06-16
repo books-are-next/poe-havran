@@ -1,6 +1,6 @@
 ---
 title: F…
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Heleně
-contentType: prose
+contentType: poetry
 ---
 
 <section>

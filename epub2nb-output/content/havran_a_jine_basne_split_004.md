@@ -1,6 +1,6 @@
 ---
 title: Lenora
-contentType: prose
+contentType: poetry
 ---
 
 <section>

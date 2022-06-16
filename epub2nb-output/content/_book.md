@@ -10,6 +10,8 @@ meta:
   modified: '2022-02-09T15:06:32.904Z'
   languageCode: cs
   publisherShort: mkp
+  contentType: poetry
+  edition: poezie
 readingOrder:
   - promo.html
   - havran_a_jine_basne_split_002.html

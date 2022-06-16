@@ -4,10 +4,11 @@
   },
   "title": "Havran a jiné básně",
   "author": "Edgar Allan Poe",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "poe-havran-a-jine-basne-d10a9da",
-  "revision": "d10a9da",
+  "identifier": "poe-havran-a-jine-basne-caa8881",
+  "revision": "caa8881",
   "readingOrder": [
     "promo.html",
     "havran_a_jine_basne_split_002.html",
@@ -47,8 +48,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:58:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272683138
+    "date": "Thu Jun 16 2022 07:32:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364748596
   },
   "documents": [
     {
@@ -766,9 +767,9 @@
   ],
   "totals": {
     "all": {
-      "words": 7785,
-      "chars": 41124,
-      "ideas": 1479
+      "words": 7786,
+      "chars": 41130,
+      "ideas": 1480
     },
     "chapters": {
       "words": 7608,

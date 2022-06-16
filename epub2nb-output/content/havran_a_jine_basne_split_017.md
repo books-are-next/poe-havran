@@ -1,6 +1,6 @@
 ---
 title: Ostrovu Zante
-contentType: prose
+contentType: poetry
 ---
 
 <section>

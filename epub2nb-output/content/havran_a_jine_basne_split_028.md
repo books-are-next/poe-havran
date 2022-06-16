@@ -1,6 +1,6 @@
 ---
 title: Israfel
-contentType: prose
+contentType: poetry
 ---
 
 <section>

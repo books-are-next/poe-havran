@@ -1,6 +1,6 @@
 ---
 title: Svatební Ballada
-contentType: prose
+contentType: poetry
 ---
 
 <section>

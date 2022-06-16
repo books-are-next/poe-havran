@@ -1,6 +1,6 @@
 ---
 title: Ticho
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -6,7 +6,9 @@
       "author": "Edgar Allan Poe",
       "modified": "2022-02-09T15:06:32.904Z",
       "languageCode": "cs",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "contentType": "poetry",
+      "edition": "poezie"
     },
     "elements": {
       "title": "e-booknadpis2probasne e-booknadpis ",
@@ -752,6 +754,6 @@
       "user": "books-are-next",
       "repo": "poe-havran"
     },
-    "generatedAt": 1655271750033
+    "generatedAt": 1655364279516
   }
 }

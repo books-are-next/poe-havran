@@ -1,6 +1,6 @@
 ---
 title: Já nedbám…
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Sen ve snu
-contentType: prose
+contentType: poetry
 ---
 
 <section>
