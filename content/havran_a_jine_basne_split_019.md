@@ -1,6 +1,6 @@
 ---
 title: "Město v\_moři"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

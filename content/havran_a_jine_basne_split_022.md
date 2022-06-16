@@ -1,6 +1,6 @@
 ---
 title: Údolí neklidu
-contentType: prose
+contentType: poetry
 ---
 
 <section>

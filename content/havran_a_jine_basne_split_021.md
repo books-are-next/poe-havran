@@ -1,6 +1,6 @@
 ---
 title: Eldorádo
-contentType: prose
+contentType: poetry
 ---
 
 <section>

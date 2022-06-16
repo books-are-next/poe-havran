@@ -1,6 +1,6 @@
 ---
 title: Zem snů
-contentType: prose
+contentType: poetry
 ---
 
 <section>

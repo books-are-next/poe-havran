@@ -1,6 +1,6 @@
 ---
 title: Ulalum
-contentType: prose
+contentType: poetry
 ---
 
 <section>

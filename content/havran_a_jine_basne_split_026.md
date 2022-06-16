@@ -1,6 +1,6 @@
 ---
 title: Pro Annie
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Země vil
-contentType: prose
+contentType: poetry
 ---
 
 <section>

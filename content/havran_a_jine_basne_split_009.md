@@ -1,6 +1,6 @@
 ---
 title: Své matce
-contentType: prose
+contentType: poetry
 ---
 
 <section>

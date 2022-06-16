@@ -1,6 +1,6 @@
 ---
 title: Eulalie
-contentType: prose
+contentType: poetry
 ---
 
 <section>

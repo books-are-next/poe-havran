@@ -1,6 +1,6 @@
 ---
 title: Z předmluvy básníkovy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

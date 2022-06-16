@@ -1,6 +1,6 @@
 ---
 title: F—S\. S\. O—D\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

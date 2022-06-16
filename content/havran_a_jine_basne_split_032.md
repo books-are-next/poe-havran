@@ -1,6 +1,6 @@
 ---
 title: Jezero
-contentType: prose
+contentType: poetry
 ---
 
 <section>

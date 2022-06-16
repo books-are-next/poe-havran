@@ -1,6 +1,6 @@
 ---
 title: Annabel-Lee
-contentType: prose
+contentType: poetry
 ---
 
 <section>

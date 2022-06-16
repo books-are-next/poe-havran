@@ -1,6 +1,6 @@
 ---
 title: Havran
-contentType: prose
+contentType: poetry
 ---
 
 <section>
