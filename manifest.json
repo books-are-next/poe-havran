@@ -7,8 +7,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "poe-havran-a-jine-basne-4927a3f",
-  "revision": "4927a3f",
+  "identifier": "poe-havran-a-jine-basne-ffcabda",
+  "revision": "ffcabda",
   "readingOrder": [
     "promo.html",
     "havran_a_jine_basne_split_002.html",
@@ -45,11 +45,11 @@
     "havran_a_jine_basne_split_033.html",
     "havran_a_jine_basne_split_034.html",
     "havran_a_jine_basne_split_035.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:20:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979640223
+    "date": "Thu Jul 07 2022 08:36:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183012384
   },
   "documents": [
     {
@@ -498,7 +498,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Sen ve snu",
+          "name": "Sen ve snu",
           "id": null,
           "children": []
         }
@@ -733,7 +733,7 @@
       "role": "chapter",
       "order": 34,
       "prev": "havran_a_jine_basne_split_034.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -746,11 +746,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 169,
-      "chars": 1095,
+      "chars": 1092,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "havran_a_jine_basne_split_035.html",
       "next": null,
@@ -767,8 +767,8 @@
   ],
   "totals": {
     "all": {
-      "words": 7786,
-      "chars": 41130,
+      "words": 7785,
+      "chars": 41132,
       "ideas": 1480
     },
     "chapters": {

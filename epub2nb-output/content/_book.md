@@ -48,7 +48,7 @@ readingOrder:
   - havran_a_jine_basne_split_033.html
   - havran_a_jine_basne_split_034.html
   - havran_a_jine_basne_split_035.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
