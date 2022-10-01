@@ -7,8 +7,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "poe-havran-a-jine-basne-1e408cc",
-  "revision": "1e408cc",
+  "identifier": "poe-havran-a-jine-basne-89f4756",
+  "revision": "89f4756",
   "readingOrder": [
     "promo.html",
     "havran_a_jine_basne_split_002.html",
@@ -48,8 +48,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:32:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487135732
+    "date": "Sat Oct 01 2022 16:02:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640120965
   },
   "documents": [
     {
