@@ -7,8 +7,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "poe-havran-a-jine-basne-89f4756",
-  "revision": "89f4756",
+  "identifier": "poe-havran-a-jine-basne-e38b561",
+  "revision": "e38b561",
   "readingOrder": [
     "promo.html",
     "havran_a_jine_basne_split_002.html",
@@ -48,8 +48,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:02:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640120965
+    "date": "Tue Oct 04 2022 16:50:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902203834
   },
   "documents": [
     {
@@ -747,9 +747,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 169,
+      "words": 167,
       "chars": 1095,
-      "ideas": 15,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "havran_a_jine_basne_split_035.html",
@@ -767,9 +767,9 @@
   ],
   "totals": {
     "all": {
-      "words": 7786,
+      "words": 7784,
       "chars": 41130,
-      "ideas": 1480
+      "ideas": 1478
     },
     "chapters": {
       "words": 7608,
